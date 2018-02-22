@@ -48,7 +48,7 @@ date: 2018-02-22T06:39:00Z
 
 <span data-dur="0.78226" data-begin="66.92212">支援室</span><span data-dur="0.57692" data-begin="67.704377">だより</span><span data-dur="1.82853" data-begin="68.281292">第87号</span> ―
 <span data-dur="1.95565" data-begin="70.109819">30分</span>  
-<span data-dur="0.61603" data-begin="72.065462">北区</span><span data-dur="0.61603" data-begin="72.68149">図書館</span><span data-dur="0.72359" data-begin="73.297518">情報</span><span data-dur="1.06583" data-begin="74.021106">1月</span><span data-dur="0.60625" data-begin="75.086931">及び</span><span data-dur="0.39113" data-begin="75.693181">北区</span><span data-dur="0.12712" data-begin="76.08431">の</span><span data-dur="0.29335" data-begin="76.211426">部屋</span><span data-dur="0.5867" data-begin="76.504773">だより</span><span data-dur="1.07561" data-begin="77.091466">第102号</span><span data-dur="0.6747" data-begin="78.16707">ほか</span> ――
+<span data-dur="0.61603" data-begin="72.065462">北区</span><span data-dur="0.61603" data-begin="72.68149">図書館</span><span data-dur="0.72359" data-begin="73.297518">情報</span><span data-dur="1.06583" data-begin="74.021106">1月</span><span data-dur="0.60625" data-begin="75.086931">及び</span><span data-dur="0.39113" data-begin="75.693181">北区</span><span data-dur="0.12712" data-begin="76.08431">の</span><span data-dur="0.29335" data-begin="76.211426">部屋</span><span data-dur="0.5867" data-begin="76.504773">だより</span><span data-dur="1.07561" data-begin="77.091466">第102号</span><span data-dur="0.6747" data-begin="78.16707">ほか</span> ―
 <span data-dur="0.71381" data-begin="78.841767">1時間</span><span data-dur="1.91653" data-begin="79.555577">30分</span>
 
 ## 〈<span data-dur="0.47914" data-begin="81.472107">対面</span><span data-dur="1.58408" data-begin="81.95124">音訳</span>〉
@@ -99,7 +99,7 @@ date: 2018-02-22T06:39:00Z
 <span data-dur="0.53781" data-begin="155.708334">中央</span>
 <span data-dur="0.52803" data-begin="156.246136">図書館</span>
 <span data-dur="0.91916" data-begin="156.77416">3階</span>
-<span data-dur="0.60626" data-begin="157.693312">やまびこ</span>
+〝<span data-dur="0.60626" data-begin="157.693312">やまびこ</span>〝
 <span data-dur="0.76271" data-begin="158.299562">代表</span>：
 <span data-dur="0.79204" data-begin="159.062263">円谷</span>
 <span data-dur="0.80182" data-begin="159.854298">03</span>

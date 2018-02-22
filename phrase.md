@@ -26,8 +26,8 @@ date: 2018-02-22T06:39:00Z
 <span data-dur="4.454" data-begin="57.969">23日定例会／勉強会</span>
 
 ## <span data-dur="4.311" data-begin="62.423">〈録音図書(デイジー版CD)作成〉</span>
-<span data-dur="5.128" data-begin="66.734">支援室だより第87号30分</span>  
-<span data-dur="9.325" data-begin="71.862">北区図書館情報1月及び北区の部屋だより第102号他1時間30分</span>
+<span data-dur="5.128" data-begin="66.734">支援室だより第87号 ― 30分</span>  
+<span data-dur="9.325" data-begin="71.862">北区図書館情報1月及び北区の部屋だより第102号他 ― 1時間30分</span>
 
 ## <span data-dur="2.067" data-begin="81.186">〈対面音訳〉</span>
 <span data-dur="6.017" data-begin="83.253">☆1月・・・15件(本年度累計136件)</span>
@@ -55,9 +55,7 @@ date: 2018-02-22T06:39:00Z
 
 <span data-dur="2.086" data-begin="148.458">神代寛子</span>
 
-<span data-dur="13.371" data-begin="150.543">
-## 定例会：
-第2・第4金曜日10時～12時／中央図書館3階〝やまびこ〝代表：円谷03（3907）2909</span>
+## <span data-dur="13.371" data-begin="150.543">定例会：第2・第4金曜日10時～12時／中央図書館3階〝やまびこ〝代表：円谷03（3907）2909</span>
 
 ## <span data-dur="1.75" data-begin="163.914">Let's&ensp;try!!</span>
 
