@@ -11,19 +11,19 @@ date: 2018-02-22T06:39:00Z
 <span data-dur="4.353" data-begin="6.885">2018年2月9日発行</span>
 
 ## <span data-dur="2.724" data-begin="11.238">〈1月活動報告〉</span>
-<span data-dur="4.157" data-begin="13.961">12日定例会／勉強会</span>  
-<span data-dur="3.389" data-begin="18.118">14日ユニバーサル部会</span>  
-<span data-dur="3.842" data-begin="21.506">19日合同ボランティア会</span>  
-<span data-dur="5.492" data-begin="25.347">26日定例会／勉強会・役員会</span>
+<span data-dur="4.157" data-begin="13.961">12日 定例会／勉強会</span>  
+<span data-dur="3.389" data-begin="18.118">14日 ユニバーサル部会</span>  
+<span data-dur="3.842" data-begin="21.506">19日 合同ボランティア会</span>  
+<span data-dur="5.492" data-begin="25.347">26日 定例会／勉強会・役員会</span>
 
 ## <span data-dur="2.586" data-begin="30.839">〈2月活動予定〉</span>
-<span data-dur="4.302" data-begin="33.425">2日周年パネル作成委員会</span>  
-<span data-dur="3.156" data-begin="37.726">4日ユニバーサル部会</span>  
-<span data-dur="3.435" data-begin="40.882">4日バリアフリー朗読会</span>  
-<span data-dur="3.931" data-begin="44.316">9日定例会／勉強会</span>  
-<span data-dur="5.783" data-begin="48.247">15日東京音訳グループ連絡会・講演会</span>  
-<span data-dur="3.94" data-begin="54.029">16日合同ボランティア会</span>  
-<span data-dur="4.454" data-begin="57.969">23日定例会／勉強会</span>
+<span data-dur="4.302" data-begin="33.425">2日 周年パネル作成委員会</span>  
+<span data-dur="3.156" data-begin="37.726">4日 ユニバーサル部会</span>  
+<span data-dur="3.435" data-begin="40.882">4日 バリアフリー朗読会</span>  
+<span data-dur="3.931" data-begin="44.316">9日 定例会／勉強会</span>  
+<span data-dur="5.783" data-begin="48.247">15日 東京音訳グループ連絡会・講演会</span>  
+<span data-dur="3.94" data-begin="54.029">16日 合同ボランティア会</span>  
+<span data-dur="4.454" data-begin="57.969">23日 定例会／勉強会</span>
 
 ## <span data-dur="4.311" data-begin="62.423">〈録音図書(デイジー版CD)作成〉</span>
 <span data-dur="5.128" data-begin="66.734">支援室だより第87号 ― 30分</span>  
