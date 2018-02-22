@@ -17,13 +17,13 @@
 
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
             <p class="loading">
                 <em><img src="media/loader.gif" alt="Initializing audio"> Loading audio…</em>
             </p>
 
             <p class="passage-audio" hidden>
                 <audio id="passage-audio" class="passage" controls>
-                    <!-- @todo WebM? -->
                     <source src="media/{{ page.oto }}.mp3" type="audio/mp3">
                     <source src="media/{{ page.oto }}.ogg" type="audio/ogg">
                     <source src="media/{{ page.oto }}.wav" type="audio/wav">
@@ -50,7 +50,6 @@
             <noscript>
                 <p class="error"><em><strong>Notice:</strong> You must have JavaScript enabled/available to try this HTML5 Audio read along.</em></p>
             </noscript>
-      <section id="main_content" class="inner">
         {{ content }}
       </section>
     </div>
