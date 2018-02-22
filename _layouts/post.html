@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="ja" itemscope itemtype="http://schema.org/WebPage">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="noindex">
+    <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <title>{{ page.title }}</title>
+ </head>
+  <body>
+    <div class="content">
+      {{ content }}
+    </div>
+    <footer>
+      <div>
+        文責： {{ page.author }}
+      </div>
+      <div>
+    	<time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">ページ更新日： {{ page.date | date: "%Y年%m月%d日" }}</time>
+      </div>
+    </footer>
+  </body>
+</html>
