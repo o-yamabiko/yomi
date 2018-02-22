@@ -5,13 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="robots" content="noindex">
+    <link rel="stylesheet" type="text/css" href="css/pandoc.css">
     <link rel="stylesheet" type="text/css" href="css/yomi.css">
     <title>{{ page.title }}</title>
  </head>
   <body>
-        <h1>{{ page.title }}</h1>
         <article>
-
+	<div class="controller">
             <p class="loading">
                 <em><img src="media/loader.gif" alt="Initializing audio"> Loading audio…</em>
             </p>
@@ -44,6 +44,7 @@
             <noscript>
                 <p class="error"><em><strong>Notice:</strong> You must have JavaScript enabled/available to try this HTML5 Audio read along.</em></p>
             </noscript>
+	</div>
             <div id="passage-text" class="passage">
         {{ content }}
             </div>
@@ -56,6 +57,9 @@
           </div>    
 	</footer>
         </article>
+        <footer class="credits">
+            The read-along feature is powered by <a href="https://github.com/westonruter/html5-audio-read-along">the read-along code</a> created by <a href="http://westonruter.github.com/">Weston Ruter</a>, licensed <a href="http://www.opensource.org/licenses/MIT" rel="license">MIT</a>/<a href="http://www.gnu.org/licenses/gpl.html" rel="license">GPL</a>.
+        </footer>
         <script src="js/read-along.js"></script>
         <script src="js/main.js"></script>
   </body>
