@@ -39,9 +39,9 @@
         {% endif %}
     </style>
   </head>
-  <body onload="showtext()">
+  <body{% if page.oto %}onload="showtext()"{% endif %}>
    <div id="passage-text" class="passage">
-    <section class="main-content" id="bun" style="display:none">
+    <section class="main-content" id="bun"{% if page.oto %}style="display:none"{% endif %}>
 
       {{ content }}
 
