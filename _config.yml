@@ -1,2 +1,6 @@
 theme: jekyll-theme-slate
 markdown: kramdown
+collections:
+  kumin:
+    output: true
+    permalink: /kumin/:title.html
