@@ -56,7 +56,11 @@
          {% endif %}
 </div> 
        {% endif %}
-       <div class="site-footer-owner">読み上げ音声作成：<a href="{{ site.url }}">音訳グループ やまびこ</a></div>
+       <div class="site-footer-owner">
+       {% if page.oto %}
+       読み上げ音声作成：
+       {% endif %}
+       <a href="{{ site.url }}">音訳グループ やまびこ</a></div>
          <span class="site-footer-credits">このページは<a href="https://pages.github.com">GitHub Pages</a>によって生成されました。</span>
        {% if page.imagefrom %}
 	  <div class="site-footer-credits">背景画像： <a href="{{ page.imagefromurl }}">{{ page.imagefrom }}</a></div>
