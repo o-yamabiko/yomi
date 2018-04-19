@@ -3,4 +3,4 @@ markdown: kramdown
 collections:
   kumin:
     output: true
-    permalink: ../kumin/:title.html
+    permalink: :title.html
