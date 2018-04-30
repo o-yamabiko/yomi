@@ -79,9 +79,6 @@
 </div> 
        {% endif %}
        <div class="site-footer-owner"><a href="{{ site.url }}">音訳グループ やまびこ</a></div>
-       {% if site.github.is_project_page %}
-          <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
-       {% endif %}
          <span class="site-footer-credits">このページは<a href="https://pages.github.com">GitHub Pages</a>によって生成されました。</span>
        {% if page.imagefrom %}
 	  <div class="site-footer-credits">背景画像： <a href="{{ page.imagefromurl }}">{{ page.imagefrom }}</a></div>
@@ -95,11 +92,9 @@
    </div>
         {% if page.oto %}
 	<div class="controller">
-	    <div style="position: absolute; left: auto; right: 1em; top: 1em; font-size: small; background: rgba(255, 255, 255, .90);"><a href="/p{{ page.url }}">音声なし（印刷用）ページ</a></div>
-
-	    <p style="margin-left: 1rem; margin-top: 3rem;">
+	    <p style="margin-left: 1rem;">
               <label for="hyoji" class="tgl tgl-gray">  
-                <input type="checkbox" id="hyoji" onclick="showtext()">
+                <input type="checkbox" id="hyoji" onclick="showtext()" checked>
                 <span data-on="文字表示中" data-off="文字を表示"></span>
               </label>
               <span id="view" style="display: none;" class="autofocus-current-word">
