@@ -15,6 +15,9 @@
       .main-content {
          padding-top: 12em;
       }
+      #logo {
+         background-image: url('media/index/webtop.png');
+      }
         {% endif %}
         {% if page.iro %}
       body {
@@ -38,10 +41,29 @@
       }
         {% endif %}
     </style>
+    <link rel="apple-touch-icon" sizes="180x180" href="../icons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="../icons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../icons/favicon-16x16.png">
+    <link rel="manifest" href="../icons/site.webmanifest">
+    <link rel="mask-icon" href="../icons/safari-pinned-tab.svg" color="#4883f8">
+    <link rel="shortcut icon" href="../icons/favicon.ico">
+    <meta name="apple-mobile-web-app-title" content="o-yamabiko">
+    <meta name="application-name" content="o-yamabiko">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="msapplication-config" content="../icons/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
   </head>
   <body{% if page.oto %} onload="showtext()"{% endif %}>
+        {% if page.oto %}
+  <div id="logo"></div>
+        {% endif %}
    <div id="passage-text" class="passage">
     <section class="main-content" id="bun"{% if page.oto %} style="display:none"{% endif %}>
+
+      {% if site.show_downloads %}
+        <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
+        <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
+      {% endif %}
 
       {{ content }}
 
@@ -49,18 +71,17 @@
        {% if page.navigation %}
 <div class="nav">
          {% if page.previous %}
-<span class="pglink"><a href="/yomi{{ page.previous.url }}">前ページ</a></span>
+<span class="pglink"><a href="/yomi{{ page.previous.url }}">前号</a></span>
          {% endif %}
          {% if page.next %}
-<span class="pglink"><a href="/yomi{{ page.next.url }}">次ページ</a></span>
+<span class="pglink"><a href="/yomi{{ page.next.url }}">次号</a></span>
          {% endif %}
 </div> 
        {% endif %}
-       <div class="site-footer-owner">
-       {% if page.oto %}
-       読み上げ音声作成：
+       <div class="site-footer-owner"><a href="{{ site.url }}">音訳グループ やまびこ</a></div>
+       {% if site.github.is_project_page %}
+          <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
        {% endif %}
-       <a href="{{ site.url }}">音訳グループ やまびこ</a></div>
          <span class="site-footer-credits">このページは<a href="https://pages.github.com">GitHub Pages</a>によって生成されました。</span>
        {% if page.imagefrom %}
 	  <div class="site-footer-credits">背景画像： <a href="{{ page.imagefromurl }}">{{ page.imagefrom }}</a></div>
@@ -74,15 +95,19 @@
    </div>
         {% if page.oto %}
 	<div class="controller">
+	    <div style="position: absolute; left: auto; right: 1em; top: 1em; font-size: small; background: rgba(255, 255, 255, .90);"><a href="/p{{ page.url }}">音声なし（印刷用）ページ</a></div>
 
 	    <p style="margin-left: 1rem; margin-top: 3rem;">
-	        <input type="checkbox" id="hyoji" onclick="showtext()" checked>
-		<label for="hyoji" style="font-weight: bold; padding-right: 1em;">文字を表示</label>
-		
-            <span id="view" style="display: none;" class="autofocus-current-word" hidden>
-                <input type="checkbox" id="autofocus-current-word" checked>
-                <label for="autofocus-current-word">表示範囲を自動的に移動</label>
-            </span>
+              <label for="hyoji" class="tgl tgl-gray">  
+                <input type="checkbox" id="hyoji" onclick="showtext()">
+                <span data-on="文字表示中" data-off="文字を表示"></span>
+              </label>
+              <span id="view" style="display: none;" class="autofocus-current-word">
+                <label for="autofocus-current-word" class="tgl tgl-gray">
+		  <input type="checkbox" id="autofocus-current-word" checked="">
+                  <span data-on="音声と画面の連動中" data-off="音声・画面を連動に"></span>
+                </label>
+              </span>
 	    </p>
             <p class="playback-rate" hidden title="Note that increaseing the reading rate will decrease accuracy of word highlights">
 	        <button id="playback-slow" type="button">ゆっくり</button> <span id="hayasa">1倍速</span> <button id="playback-rate" type="button">すばやく</button>
