@@ -4,3 +4,6 @@ collections:
   kumin:
     output: true
     permalink: :title.html
+  sample:
+    output: true
+    permalink: :title.html
