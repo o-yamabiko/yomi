@@ -7,7 +7,6 @@
 
 {% seo %}
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="{{ '../assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <style>
@@ -41,7 +40,7 @@
       }
         {% endif %}
     </style>
-    <!--link rel="apple-touch-icon" sizes="180x180" href="../icons/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="../icons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="../icons/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="../icons/favicon-16x16.png">
     <link rel="manifest" href="../icons/site.webmanifest">
@@ -51,7 +50,7 @@
     <meta name="application-name" content="o-yamabiko">
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="msapplication-config" content="../icons/browserconfig.xml">
-    <meta name="theme-color" content="#ffffff"-->
+    <meta name="theme-color" content="#ffffff">
   </head>
   <body{% if page.oto %} onload="showtext()"{% endif %}>
         {% if page.oto %}
@@ -119,7 +118,7 @@
                 <audio id="passage-audio" class="passage" controls autoplay>
                     <source src="media/{{ page.oto }}.mp3" type="audio/mp3">
                     <source src="media/{{ page.oto }}.ogg" type="audio/ogg">
-                    <source src="media/{{ page.oto }}.wav" type="audio/wav">
+                    <!--source src="media/{{ page.oto }}.wav" type="audio/wav"-->
 <!--object or embed for old browsers-->
     <object class="error" type="audio/mpeg">
         <param name="autostart" value="true">
