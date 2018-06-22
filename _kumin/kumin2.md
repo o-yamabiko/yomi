@@ -256,178 +256,178 @@ navigation: true
 
 <span data-dur="4.821" data-begin="379.269">『尾久機関区と蒸気機関車C62』</span>
 
-<span data-dur="1.566" data-begin="384.090">～「ある機関助士」</span>
-<span data-dur="3.007" data-begin="385.656">を100倍楽しむ～</span>
+<span data-dur="1.593" data-begin="384.090">～「ある機関助士」</span>
+<span data-dur="3.007" data-begin="385.683">を100倍楽しむ～</span>
 
-<span data-dur="1.19" data-begin="388.663">ポスター：</span>
-<span data-dur="5.87" data-begin="389.853">尾久機関区と蒸気機関車C62</span>
+<span data-dur="1.189" data-begin="388.690">ポスター：</span>
+<span data-dur="5.871" data-begin="389.879">尾久機関区と蒸気機関車C62</span>
 
-#### <span data-dur="2.187" data-begin="395.723">平成26年度</span><span data-dur="2.361" data-begin="397.910">（2014年）	</span>
+#### <span data-dur="2.187" data-begin="395.750">平成26年度</span><span data-dur="2.361" data-begin="397.937">（2014年）</span>
 
-##### <span data-dur="2.209" data-begin="400.271">7月6日</span>
+##### <span data-dur="2.209" data-begin="400.298">7月6日</span>
 
-<span data-dur="2.251" data-begin="402.480">16ミリフィルム</span>
+<span data-dur="2.25" data-begin="402.507">16ミリフィルム</span>
 
-<span data-dur="2.914" data-begin="404.731">・長靴をはいた猫</span>
+<span data-dur="2.914" data-begin="404.757">・長靴をはいた猫</span>
 
-<span data-dur="2.417" data-begin="407.645">・その他</span>
+<span data-dur="2.417" data-begin="407.671">・その他</span>
 
-##### <span data-dur="2.842" data-begin="410.062">10月31日</span>
+##### <span data-dur="2.843" data-begin="410.088">10月31日</span>
 
-<span data-dur="3.825" data-begin="412.904">都立多摩図書館見学</span>
+<span data-dur="3.824" data-begin="412.931">都立多摩図書館見学</span>
 
-##### <span data-dur="2.831" data-begin="416.729">11月16日</span>
+##### <span data-dur="2.831" data-begin="416.755">11月16日</span>
 
-<span data-dur="1.75" data-begin="419.560">16ミリフィルム・</span>
-<span data-dur="5.145" data-begin="421.310">ムーミンの原作者トーベ・ヤンソン生誕100周年</span>
+<span data-dur="1.75" data-begin="419.586">16ミリフィルム・</span>
+<span data-dur="5.145" data-begin="421.336">ムーミンの原作者トーベ・ヤンソン生誕100周年</span>
 
-<span data-dur="2.432" data-begin="426.455">・消えないおばけ</span>
+<span data-dur="2.433" data-begin="426.481">・消えないおばけ</span>
 
-<span data-dur="2.668" data-begin="428.887">・ぼくは王様だ!!</span>
+<span data-dur="2.667" data-begin="428.914">・ぼくは王様だ!!</span>
 
-<span data-dur="3.039" data-begin="431.555">・落ちてきた星の子</span>
+<span data-dur="3.039" data-begin="431.581">・落ちてきた星の子</span>
 
-##### <span data-dur="2.602" data-begin="434.594">2月22日</span>
+##### <span data-dur="2.602" data-begin="434.620">2月22日</span>
 
-<span data-dur="3.269" data-begin="437.196">16ミリフィルム上映会</span>
+<span data-dur="3.27" data-begin="437.222">16ミリフィルム上映会</span>
 
-<span data-dur="2.214" data-begin="440.465">「悪魔の発明」</span>
+<span data-dur="2.214" data-begin="440.492">「悪魔の発明」</span>
 
-<span data-dur="3.16" data-begin="442.679">特撮映画監督カレル・ゼマン</span>
+<span data-dur="3.159" data-begin="442.706">特撮映画監督カレル・ゼマン</span>
 
-<span data-dur="4.393" data-begin="445.839">1958年作</span>
+<span data-dur="4.393" data-begin="445.865">1958年作</span>
 
-<span data-dur="1.189" data-begin="450.232">ポスター：</span>
-<span data-dur="3.264" data-begin="451.421">悪魔の発明</span>
+<span data-dur="1.189" data-begin="450.258">ポスター：</span>
+<span data-dur="3.264" data-begin="451.447">悪魔の発明</span>
 
-#### <span data-dur="2.138" data-begin="454.685">平成27年度</span><span data-dur="2.345" data-begin="456.823">（2015年）</span>
+#### <span data-dur="2.138" data-begin="454.711">平成27年度</span><span data-dur="2.345" data-begin="456.849">（2015年）</span>
 
-##### <span data-dur="2.236" data-begin="459.168">7月5日</span>
+##### <span data-dur="2.236" data-begin="459.194">7月5日</span>
 
-<span data-dur="3.27" data-begin="461.404">16ミリフィルム上映会</span>
+<span data-dur="3.27" data-begin="461.430">16ミリフィルム上映会</span>
 
-<span data-dur="3.706" data-begin="464.674">｢松谷みよ子」原作アニメーション</span>
+<span data-dur="3.706" data-begin="464.700">｢松谷みよ子」原作アニメーション</span>
 
-<span data-dur="2.23" data-begin="468.380">・化けくらべ</span>
+<span data-dur="2.23" data-begin="468.406">・化けくらべ</span>
 
-<span data-dur="2.71" data-begin="470.610">・いたちのこもりうた</span>
+<span data-dur="2.71" data-begin="470.636">・いたちのこもりうた</span>
 
-<span data-dur="2.513" data-begin="473.320">・オバケちゃん</span>
+<span data-dur="2.513" data-begin="473.346">・オバケちゃん</span>
 
-##### <span data-dur="2.424" data-begin="475.833">7月15日</span>
+##### <span data-dur="2.424" data-begin="475.859">7月15日</span>
 
-<span data-dur="3.546" data-begin="478.257">野口研究所見学</span>
+<span data-dur="3.546" data-begin="478.283">野口研究所見学</span>
 
-##### <span data-dur="2.593" data-begin="481.803">11月1日</span>
+##### <span data-dur="2.593" data-begin="481.829">11月1日</span>
 
-<span data-dur="3.27" data-begin="484.396">16ミリフィルム上映会</span>
+<span data-dur="3.27" data-begin="484.422">16ミリフィルム上映会</span>
 
-<span data-dur="2.141" data-begin="487.666">アニメ落語館</span>
+<span data-dur="2.141" data-begin="487.692">アニメ落語館</span>
 
-<span data-dur="2.011" data-begin="489.807">・転失気</span>
+<span data-dur="2.011" data-begin="489.833">・転失気</span>
 
-<span data-dur="2.238" data-begin="491.818">・お血脈</span>
+<span data-dur="2.239" data-begin="491.844">・お血脈</span>
 
-<span data-dur="1.646" data-begin="494.056">・馬の田楽</span>
+<span data-dur="1.645" data-begin="494.083">・馬の田楽</span>
 
-<span data-dur="2.15" data-begin="495.702">ほか</span>
+<span data-dur="2.15" data-begin="495.728">ほか</span>
 
-<span data-dur="1.196" data-begin="497.852">写真：</span>
-<span data-dur="3.178" data-begin="499.048">アニメ落語館</span>
+<span data-dur="1.196" data-begin="497.878">写真：</span>
+<span data-dur="3.178" data-begin="499.074">アニメ落語館</span>
 
-##### <span data-dur="2.721" data-begin="502.226">2月28日</span>
+##### <span data-dur="2.722" data-begin="502.252">2月28日</span>
 
-<span data-dur="3.27" data-begin="504.947">16ミリフィルム上映会</span>
+<span data-dur="3.269" data-begin="504.974">16ミリフィルム上映会</span>
 
-<span data-dur="2.352" data-begin="508.217">オーケストラの少女</span>
+<span data-dur="2.352" data-begin="508.243">オーケストラの少女</span>
 
-<span data-dur="5.548" data-begin="510.569">1937年制作モノクロ映画</span>
+<span data-dur="5.548" data-begin="510.595">1937年制作モノクロ映画</span>
 
-<span data-dur="1.196" data-begin="516.117">写真：</span>
-<span data-dur="4.451" data-begin="517.313">16ミリフィルム・オーケストラの少女</span>
+<span data-dur="1.196" data-begin="516.143">写真：</span>
+<span data-dur="4.451" data-begin="517.339">16ミリフィルム・オーケストラの少女</span>
 
-##### <span data-dur="2.349" data-begin="521.764">3月9日</span>
+##### <span data-dur="2.349" data-begin="521.790">3月9日</span>
 
-<span data-dur="4.517" data-begin="524.113">国立国際子ども図書館見学</span>
+<span data-dur="4.517" data-begin="524.139">国立国際子ども図書館見学</span>
 
-<span data-dur="1.196" data-begin="528.630">写真：</span>
-<span data-dur="3.533" data-begin="529.826">平成28年3月9日</span>
-<span data-dur="3.513" data-begin="533.359">国際子ども図書館</span>
+<span data-dur="1.197" data-begin="528.656">写真：</span>
+<span data-dur="3.532" data-begin="529.853">平成28年3月9日</span>
+<span data-dur="3.514" data-begin="533.385">国際子ども図書館</span>
 
-#### <span data-dur="2.195" data-begin="536.872">平成28年度</span><span data-dur="2.39" data-begin="539.067">（2016年）	</span>
+#### <span data-dur="2.194" data-begin="536.899">平成28年度</span><span data-dur="2.391" data-begin="539.093">（2016年）	</span>
 
-##### <span data-dur="2.765" data-begin="541.457">8月21日</span>
+##### <span data-dur="2.765" data-begin="541.484">8月21日</span>
 
-<span data-dur="3.27" data-begin="544.222">16ミリフィルム上映会</span>
+<span data-dur="3.269" data-begin="544.249">16ミリフィルム上映会</span>
 
-<span data-dur="2.596" data-begin="547.492">・豆象武勇伝</span>
+<span data-dur="2.597" data-begin="547.518">・豆象武勇伝</span>
 
-<span data-dur="3.239" data-begin="550.088">・おじさんと不思議なおくりもの</span>
+<span data-dur="3.238" data-begin="550.115">・おじさんと不思議なおくりもの</span>
 
-<span data-dur="1.803" data-begin="553.327">・三びきの子ぶた</span>
+<span data-dur="1.803" data-begin="553.353">・三びきの子ぶた</span>
 
-<span data-dur="2.15" data-begin="555.130">ほか</span>
+<span data-dur="2.15" data-begin="555.156">ほか</span>
 
-##### <span data-dur="2.438" data-begin="557.280">11月6日</span>
+##### <span data-dur="2.438" data-begin="557.306">11月6日</span>
 
-<span data-dur="3.27" data-begin="559.718">16ミリフィルム上映会</span>
+<span data-dur="3.27" data-begin="559.744">16ミリフィルム上映会</span>
 
-<span data-dur="4.329" data-begin="562.988">1916年のチャップリン作品から</span>
+<span data-dur="4.33" data-begin="563.014">1916年のチャップリン作品から</span>
 
-<span data-dur="2.678" data-begin="567.317">・チャップリンの替玉</span>
+<span data-dur="2.677" data-begin="567.344">・チャップリンの替玉</span>
 
-<span data-dur="1.984" data-begin="569.995">・チャップリンの伯爵</span>
+<span data-dur="1.984" data-begin="570.021">・チャップリンの伯爵</span>
 
-<span data-dur="2.15" data-begin="571.979">ほか</span>
+<span data-dur="2.15" data-begin="572.005">ほか</span>
 
-##### <span data-dur="2.725" data-begin="574.129">11月12日</span>
+##### <span data-dur="2.725" data-begin="574.155">11月12日</span>
 
-<span data-dur="2.966" data-begin="576.854">銀鱗文庫見学</span>
+<span data-dur="2.966" data-begin="576.880">銀鱗文庫見学</span>
 
-##### <span data-dur="2.168" data-begin="579.820">2月5日</span>
+##### <span data-dur="2.168" data-begin="579.846">2月5日</span>
 
-<span data-dur="3.27" data-begin="581.988">16ミリフィルム上映会</span>
+<span data-dur="3.27" data-begin="582.014">16ミリフィルム上映会</span>
 
-<span data-dur="2.477" data-begin="585.258">・おもちゃのマーチ</span>
+<span data-dur="2.477" data-begin="585.284">・おもちゃのマーチ</span>
 
-<span data-dur="3.184" data-begin="587.735">・鬼の子とゆきうさぎ</span>
+<span data-dur="3.185" data-begin="587.761">・鬼の子とゆきうさぎ</span>
 
-<span data-dur="4.135" data-begin="590.919">・森のトント雪うさぎと子供たち</span>
+<span data-dur="1.567" data-begin="590.946">・森のトント</span>
+<span data-dur="3.344" data-begin="592.513">雪うさぎと子供たち</span>
 
-<span data-dur="1.196" data-begin="595.054">写真：</span>
-<span data-dur="3.97" data-begin="596.250">16ミリフィルム上映会</span>
+<span data-dur="1.196" data-begin="595.857">写真：</span>
+<span data-dur="3.97" data-begin="597.053">16ミリフィルム上映会</span>
 
-##### <span data-dur="2.522" data-begin="600.220">2月13日</span>
+##### <span data-dur="2.522" data-begin="601.023">2月13日</span>
 
-<span data-dur="4.25" data-begin="602.742">調布市立図書館見学</span>
+<span data-dur="4.25" data-begin="603.545">調布市立図書館見学</span>
 
-#### <span data-dur="2.07" data-begin="606.992">平成29年度</span><span data-dur="2.395" data-begin="609.062">（2017年）	</span>
+#### <span data-dur="2.07" data-begin="607.795">平成29年度</span><span data-dur="2.395" data-begin="609.865">（2017年）	</span>
 
-##### <span data-dur="2.519" data-begin="611.457">7月30日</span>
+##### <span data-dur="2.519" data-begin="612.260">7月30日</span>
 
-<span data-dur="3.27" data-begin="613.976">16ミリフィルム上映会</span>
+<span data-dur="3.27" data-begin="614.779">16ミリフィルム上映会</span>
 
-<span data-dur="3.692" data-begin="617.246">アニメにみる、宮沢賢治の世界</span>
+<span data-dur="3.692" data-begin="618.049">アニメにみる、宮沢賢治の世界</span>
 
-<span data-dur="2.615" data-begin="620.938">・セロひきのゴーシュ</span>
+<span data-dur="2.615" data-begin="621.741">・セロひきのゴーシュ</span>
 
-<span data-dur="2.194" data-begin="623.553">・雪渡り</span>
+<span data-dur="2.194" data-begin="624.356">・雪渡り</span>
 
-<span data-dur="2.98" data-begin="625.747">・風の又三郎</span>
+<span data-dur="2.98" data-begin="626.550">・風の又三郎</span>
 
-<span data-dur="1.189" data-begin="628.727">ポスター：</span>
-<span data-dur="3.232" data-begin="629.916">夏のアニメ映画会</span>
+<span data-dur="1.189" data-begin="629.530">ポスター：</span>
+<span data-dur="3.232" data-begin="630.719">夏のアニメ映画会</span>
 
-##### <span data-dur="2.66" data-begin="633.148">10月22日</span>
+##### <span data-dur="2.66" data-begin="633.951">10月22日</span>
 
-<span data-dur="3.27" data-begin="635.808">16ミリフィルム上映会</span>
+<span data-dur="3.27" data-begin="636.611">16ミリフィルム上映会</span>
+<span data-dur="1.618" data-begin="639.881">秋の映画会</span>
 
-<span data-dur="1.618" data-begin="639.078">秋の映画会</span>
+<span data-dur="2.838" data-begin="641.499">少年と海</span>
 
-<span data-dur="2.838" data-begin="640.696">少年と海</span>
+##### <span data-dur="2.813" data-begin="644.337">11月17日</span>
 
-##### <span data-dur="2.813" data-begin="643.534">11月17日</span>
-
-<span data-dur="5.925" data-begin="646.347">国立国会図書館東京本館見学</span>
-<!--span data-dur="1.127" data-begin="652.272">以上で</span>
-<span data-dur="5.333" data-begin="653.399">「企画・広報部」の読み上げを終わります消す。</span-->
+<span data-dur="5.925" data-begin="647.150">国立国会図書館東京本館見学</span>
+<!--span data-dur="1.127" data-begin="653.075">以上で</span>
+<span data-dur="5.333" data-begin="654.202">「企画・広報部」の読み上げを終わります消す。</span-->

@@ -185,7 +185,7 @@ navigation: true
 <span data-dur="2.091" data-begin="354.650">バリアフリー朗読会：</span>
 <span data-dur="6.182" data-begin="356.741">小説・絵本などの朗読に手話通訳を付けています。	</span>
 
-<span data-dur="2.824" data-begin="362.923">こどもの本のつどいin kitaku</span>
+<span data-dur="2.824" data-begin="362.923">こどもの本のつどい in kitaku</span>
 <span data-dur="1.601" data-begin="365.747">（子供部主催）</span>  
 <span data-dur="3.905" data-begin="367.348">：北区聴覚障害者協会の方々といっしょに</span>
 <span data-dur="4.187" data-begin="371.253">手話体験コーナーを担当します。</span>
