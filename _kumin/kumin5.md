@@ -53,6 +53,7 @@ navigation: true
 
 <span data-dur="3.58" data-begin="68.063">北区の産業はじめて物語</span>
 <span data-dur="2.937" data-begin="71.643">～レンガもお札もコットンも～</span>
+
 <span data-dur="4.818" data-begin="74.580">黒川徳男 日本近代史研究家</span>
 
 ##### <span data-dur="2.465" data-begin="79.398">3月15日</span>
