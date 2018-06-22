@@ -88,7 +88,7 @@ navigation: true
 
 <span data-dur="1.812" data-begin="141.626">講演会</span>
 
-<span data-dur="3.193" data-begin="143.438">「ドナルド・キーンってどんな人？？を消す～</span>
+<span data-dur="3.193" data-begin="143.438">「ドナルド・キーンってどんな人～</span>
 <span data-dur="2.886" data-begin="146.631">ドナルド・キーンクロニクル」</span>
 
 <span data-dur="6.901" data-begin="149.517">講師：ドナルド・キーン・センター柏崎副館長中津義人氏</span>
