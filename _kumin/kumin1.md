@@ -178,9 +178,7 @@ navigation: true
 
 #### <span data-dur="2.023" data-begin="263.468">１月</span>
 
-<span data-dur="1.75" data-begin="265.491">「北区史を語る会</span>
-<span data-dur="1.903" data-begin="267.241">（史は歴史のシ消す）</span>
-<span data-dur="1.805" data-begin="269.144">」</span>
+<span data-dur="1.75" data-begin="265.491">「北区史を語る会</span><span data-dur="1.805" data-begin="269.144">」</span>
 <span data-dur="0.5" data-begin="270.949">開始</span>
 <span data-dur="1.063" data-begin="271.449">（現</span>
 <span data-dur="0.898" data-begin="272.512">「北区の語り部」</span>
