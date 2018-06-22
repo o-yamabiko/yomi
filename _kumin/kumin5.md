@@ -3,7 +3,7 @@ layout: caymanyomi
 docid: kumin5
 title: 北区図書館活動区民の会 地域資料部
 author: 北区図書館活動区民の会
-date: 2018-06-21T22:43:50Z
+date: 2018-06-25T00:00:00Z
 oto: kumin5/sound0001
 iro: 5C9A12
 gra: ACF2F2

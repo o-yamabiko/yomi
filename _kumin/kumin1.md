@@ -3,7 +3,7 @@ layout: caymanyomi
 docid: kumin1
 title: 北区図書館活動区民の会 １０年のあゆみ
 author: 北区図書館活動区民の会
-date: 2018-06-21T22:43:46Z
+date: 2018-06-21T00:00:00Z
 oto: kumin1/sound0001
 iro: 5C9A12
 gra: ACF2F2
