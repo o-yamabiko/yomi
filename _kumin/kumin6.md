@@ -3,7 +3,7 @@ layout: caymanyomi
 docid: kumin6
 title: 北区図書館活動区民の会 ドナルド・キーン研究会
 author: 北区図書館活動区民の会
-date: 2018-06-26T00:00:00Z
+date: 2018-06-16T00:00:00Z
 oto: kumin6/sound0001
 iro: 5C9A12
 gra: ACF2F2
