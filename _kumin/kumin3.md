@@ -2,7 +2,7 @@
 layout: caymanyomi
 title: 周年行事パネル
 author: 音訳グループ やまびこ
-date: 2018-04-19T10:05:35Z
+date: 2018-06-21T22:43:48Z
 oto: kumin3/sound0001
 iro: CF6A4F
 gra: FFC7B8

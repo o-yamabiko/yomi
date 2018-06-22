@@ -3,7 +3,7 @@ layout: caymanyomi
 docid: kumin4
 title: 北区図書館活動区民の会 ユニバーサル部
 author: 北区図書館活動区民の会
-date: 2018-06-21T22:43:02Z
+date: 2018-06-21T22:43:49Z
 oto: kumin4/sound0001
 iro: 5C9A12
 gra: ACF2F2
@@ -13,7 +13,7 @@ imagefromurl:
 navigation: true
 ---
    
-##<span data-dur="2.062" data-begin="0.000">ユニバーサル部</span>
+## <span data-dur="2.062" data-begin="0.000">ユニバーサル部</span>
 
 <!--span data-dur="1.641" data-begin="2.062">読み上げ時間</span>
 <span data-dur="3.053" data-begin="3.703">約6分50秒消す</span-->
@@ -36,7 +36,7 @@ navigation: true
 <span data-dur="1.197" data-begin="48.369">写真：</span>
 <span data-dur="4.132" data-begin="49.566">打合せと会場作り</span>
 
-###<span data-dur="3.075" data-begin="53.698">ユニバーサル部の活動内容</span>
+### <span data-dur="3.075" data-begin="53.698">ユニバーサル部の活動内容</span>
 
 <span data-dur="4.795" data-begin="56.773">・年4回バリアフリー映画会開催</span>
 
@@ -59,16 +59,16 @@ navigation: true
 <span data-dur="3.821" data-begin="93.429">障害のある方々の避難訓練のサポートや</span>
 <span data-dur="3.918" data-begin="97.250">設備等の確認作業</span>
 
-###<span data-dur="2.239" data-begin="101.168">点訳サークル六星会</span><span data-dur="2.486" data-begin="103.407">（福祉センタークラス）</span>
+### <span data-dur="2.239" data-begin="101.168">点訳サークル六星会</span><span data-dur="2.486" data-begin="103.407">（福祉センタークラス）</span>
 
-####<span data-dur="1.623" data-begin="105.893">活動目的：</span>
+#### <span data-dur="1.623" data-begin="105.893">活動目的：</span>
 
 <span data-dur="2.82" data-begin="107.516">点訳ボランティア活動を通して、</span>
 <span data-dur="4.865" data-begin="110.336">視覚障害者の皆さんと共に歩む精神を尊重し、</span>
 <span data-dur="4.195" data-begin="115.201">啓蒙活動や他団体との交流を行うことで</span>
 <span data-dur="4.047" data-begin="119.396">活動の充実と発展を計る。</span>
 
-####<span data-dur="1.579" data-begin="123.443">活動内容：</span>
+#### <span data-dur="1.579" data-begin="123.443">活動内容：</span>
 
 <span data-dur="4.273" data-begin="125.022">図書館依頼の一般書・児童書の点訳、</span>
 <span data-dur="1.779" data-begin="129.295">図書館発行の</span>
@@ -88,14 +88,14 @@ navigation: true
 <span data-dur="2.118" data-begin="156.204">の登録団体として</span>
 <span data-dur="3.371" data-begin="158.322">活動の幅を広げています。</span>
 
-###<span data-dur="2.754" data-begin="163.743">点訳グループ六星会</span>
+### <span data-dur="2.754" data-begin="163.743">点訳グループ六星会</span>
 
-####<span data-dur="1.321" data-begin="166.497">ロゴマーク：</span>
+#### <span data-dur="1.321" data-begin="166.497">ロゴマーク：</span>
 
 <span data-dur="3.615" data-begin="167.818">点字の６個の点を星に見立てて</span>
 <span data-dur="3.469" data-begin="171.433">六星会と名付けました</span>
 
-####<span data-dur="2.079" data-begin="174.902">活動内容</span>
+#### <span data-dur="2.079" data-begin="174.902">活動内容</span>
 
 <span data-dur="4.771" data-begin="176.981">行事：子どもの本のつどい in Kitaku</span>
 
@@ -104,16 +104,16 @@ navigation: true
 <span data-dur="4.978" data-begin="189.468">朗読会のプログラム＆チラシ作製</span>  
 <span data-dur="5.372" data-begin="194.446">ブックスタート点字付絵本作製</span>
 
-###<span data-dur="2.708" data-begin="199.818">音訳グループ「やまびこ」</span>
+### <span data-dur="2.708" data-begin="199.818">音訳グループ「やまびこ」</span>
 
-####<span data-dur="2.585" data-begin="202.526">音訳ボランティアとは</span>
+#### <span data-dur="2.585" data-begin="202.526">音訳ボランティアとは</span>
 
 <span data-dur="1.779" data-begin="205.111">視覚障害者や</span>
 <span data-dur="3.209" data-begin="206.890">文字を読むのが難しい人達のため、</span>
 <span data-dur="2.45" data-begin="210.099">本や雑誌などの情報を</span>
 <span data-dur="3.515" data-begin="212.549">音声化する活動です。</span>
 
-####<span data-dur="2.24" data-begin="216.064">活動のメインは</span>
+#### <span data-dur="2.24" data-begin="216.064">活動のメインは</span>
 
 <span data-dur="2.121" data-begin="218.304">1：対面音訳＝</span>
 <span data-dur="2.527" data-begin="220.425">利用者さんの依頼に合わせて</span>
@@ -132,9 +132,9 @@ navigation: true
 <span data-dur="0.945" data-begin="248.831">又、</span>
 <span data-dur="4.744" data-begin="249.776">不定期に研修会も行っています。</span>
 
-###<span data-dur="3.977" data-begin="254.520">バリアフリー映画ガイド字幕作成</span>
+### <span data-dur="3.977" data-begin="254.520">バリアフリー映画ガイド字幕作成</span>
 
-####<span data-dur="2.079" data-begin="258.497">活動内容</span>
+#### <span data-dur="2.079" data-begin="258.497">活動内容</span>
 
 <span data-dur="3.91" data-begin="260.576">バリアフリー映画会字幕について</span>
 
@@ -158,7 +158,7 @@ navigation: true
 <span data-dur="2.54" data-begin="301.971">携帯電話の着信音等、</span>
 <span data-dur="4.688" data-begin="304.511">目で確認できない音を表示するものです。</span>
 
-####<span data-dur="2.234" data-begin="309.199">作品紹介</span>
+#### <span data-dur="2.234" data-begin="309.199">作品紹介</span>
 
 <span data-dur="2.627" data-begin="311.433">・野坂昭如の戦争童話、</span>
 <span data-dur="4.056" data-begin="314.060">字幕を付け、上映しました。</span>
@@ -170,9 +170,9 @@ navigation: true
 <span data-dur="1.791" data-begin="324.207">多くの作品に、</span>
 <span data-dur="4.791" data-begin="325.998">字幕を付けて行きたいと思っています。</span>
 
-###<span data-dur="2.601" data-begin="330.789">北区手話サークル</span>
+### <span data-dur="2.601" data-begin="330.789">北区手話サークル</span>
 
-####<span data-dur="2.078" data-begin="333.390">活動内容</span>
+#### <span data-dur="2.078" data-begin="333.390">活動内容</span>
 
 <span data-dur="3.079" data-begin="335.468">手話（筆談）サポートデスク：</span>
 <span data-dur="4.53" data-begin="338.547">毎月第3土曜日の午後1時～4時まで</span>
@@ -192,7 +192,7 @@ navigation: true
 
 <span data-dur="5.059" data-begin="375.440">歴史講演会などに手話通訳として協力</span>
 
-####<span data-dur="2.018" data-begin="380.499">活動場所</span>
+#### <span data-dur="2.018" data-begin="380.499">活動場所</span>
 
 <span data-dur="3.676" data-begin="382.517">夜の部：毎週火曜日午後７時～９時</span>
 

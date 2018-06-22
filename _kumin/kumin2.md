@@ -3,7 +3,7 @@ layout: caymanyomi
 docid: kumin2
 title: 北区図書館活動区民の会 企画・広報部
 author: 北区図書館活動区民の会
-date: 2018-06-21T22:44:02Z
+date: 2018-06-21T22:43:47Z
 oto: kumin2/sound0001
 iro: 5C9A12
 gra: ACF2F2
@@ -13,12 +13,12 @@ imagefromurl:
 navigation: true
 ---
    
-##<span data-dur="2.434" data-begin="0.000">企画・広報部</span>
+## <span data-dur="2.434" data-begin="0.000">企画・広報部</span>
 
 <!--span data-dur="1.64" data-begin="2.434">読み上げ時間</span>
 <span data-dur="2.63" data-begin="4.074">約11分消す</span-->
 
-###<span data-dur="2.079" data-begin="6.704">活動内容</span>
+### <span data-dur="2.079" data-begin="6.704">活動内容</span>
 
 <span data-dur="4.818" data-begin="8.783">区民の会や中央図書館のPRや会員募集、</span>
 <span data-dur="2.53" data-begin="13.601">生涯学習のための講座、</span>
@@ -27,13 +27,13 @@ navigation: true
 <span data-dur="1.923" data-begin="20.620">図書館見学など</span>
 <span data-dur="6.646" data-begin="22.543">新しい協働型図書館にふさわしい活動を行っています。</span>
 
-###<span data-dur="3.147" data-begin="29.189">10年間の活動の記録</span>
+### <span data-dur="3.147" data-begin="29.189">10年間の活動の記録</span>
 
 <!--span data-dur="2.781" data-begin="32.336">年表です。</span-->
 
-####<span data-dur="1.952" data-begin="35.117">平成20年度</span><span data-dur="2.152" data-begin="37.069">（2008年）</span>
+#### <span data-dur="1.952" data-begin="35.117">平成20年度</span><span data-dur="2.152" data-begin="37.069">（2008年）</span>
 
-#####<span data-dur="2.527" data-begin="39.221">9月24日</span>
+##### <span data-dur="2.527" data-begin="39.221">9月24日</span>
 
 <span data-dur="1.312" data-begin="41.748">講演会</span>
 
@@ -41,13 +41,13 @@ navigation: true
 
 <span data-dur="2.908" data-begin="45.305">村尚也氏</span>
 
-#####<span data-dur="2.985" data-begin="48.213">11月23日</span>
+##### <span data-dur="2.985" data-begin="48.213">11月23日</span>
 
 <span data-dur="5.018" data-begin="51.198">講演会｢数字に隠された世の中の秘密｣</span>
 
 <span data-dur="2.953" data-begin="56.216">柳谷晃氏</span>
 
-#####<span data-dur="2.407" data-begin="59.169">2月14日</span>
+##### <span data-dur="2.407" data-begin="59.169">2月14日</span>
 
 <span data-dur="2.216" data-begin="61.576">ミニコンサート</span>
 
@@ -55,9 +55,9 @@ navigation: true
 
 <span data-dur="5.119" data-begin="66.142">北区オーケストラ部員によるコンサート</span>
 
-####<span data-dur="2.156" data-begin="71.261">平成21年度</span><span data-dur="2.079" data-begin="73.417">（2009年）	</span>
+#### <span data-dur="2.156" data-begin="71.261">平成21年度</span><span data-dur="2.079" data-begin="73.417">（2009年）	</span>
 
-#####<span data-dur="2.303" data-begin="75.496">10月4日</span>
+##### <span data-dur="2.303" data-begin="75.496">10月4日</span>
 
 <span data-dur="2.184" data-begin="77.799">JAZZコンサート</span>
 
@@ -67,9 +67,9 @@ navigation: true
 <span data-dur="3.47" data-begin="87.474">平成21年10月4日</span>
 <span data-dur="3.798" data-begin="90.944">Jazzコンサートの様子</span>
 
-####<span data-dur="2.054" data-begin="94.742">平成22年度</span><span data-dur="2.168" data-begin="96.796">（2010年）	</span>
+#### <span data-dur="2.054" data-begin="94.742">平成22年度</span><span data-dur="2.168" data-begin="96.796">（2010年）	</span>
 
-#####<span data-dur="2.239" data-begin="98.964">7月3日</span>
+##### <span data-dur="2.239" data-begin="98.964">7月3日</span>
 
 <span data-dur="3.236" data-begin="101.203">16ミリフィルム・アニメ上映会</span>
 
@@ -81,11 +81,11 @@ navigation: true
 
 <span data-dur="2.15" data-begin="112.165">ほか</span>
 
-#####<span data-dur="2.548" data-begin="114.315">11月9日</span>
+##### <span data-dur="2.548" data-begin="114.315">11月9日</span>
 
 <span data-dur="4.349" data-begin="116.863">葛飾区中央図書館見学</span>
 
-#####<span data-dur="2.998" data-begin="121.212">11月21日</span>
+##### <span data-dur="2.998" data-begin="121.212">11月21日</span>
 
 <span data-dur="3.236" data-begin="124.210">16ミリフィルム・アニメ上映会</span>
 
@@ -97,7 +97,7 @@ navigation: true
 
 <span data-dur="2.15" data-begin="136.337">ほか</span>
 
-#####<span data-dur="2.754" data-begin="138.487">3月27日</span>
+##### <span data-dur="2.754" data-begin="138.487">3月27日</span>
 
 <span data-dur="3.236" data-begin="141.241">16ミリフィルム・アニメ上映会</span>
 
@@ -109,9 +109,9 @@ navigation: true
 
 <span data-dur="2.499" data-begin="151.784">ほか</span>
 
-####<span data-dur="2.227" data-begin="154.283">平成23年度</span><span data-dur="2.43" data-begin="156.510">（2011年）	</span>
+#### <span data-dur="2.227" data-begin="154.283">平成23年度</span><span data-dur="2.43" data-begin="156.510">（2011年）	</span>
 
-#####<span data-dur="2.239" data-begin="158.940">7月3日</span>
+##### <span data-dur="2.239" data-begin="158.940">7月3日</span>
 
 <span data-dur="3.236" data-begin="161.179">16ミリフィルム・アニメ上映会</span>
 
@@ -123,7 +123,7 @@ navigation: true
 
 <span data-dur="2.15" data-begin="172.373">ほか</span>
 
-#####<span data-dur="2.197" data-begin="174.523">10月10日</span>
+##### <span data-dur="2.197" data-begin="174.523">10月10日</span>
 
 <span data-dur="3.236" data-begin="176.720">16ミリフィルム・アニメ上映会</span>
 
@@ -135,7 +135,7 @@ navigation: true
 
 <span data-dur="2.149" data-begin="187.116">ほか</span>
 
-#####<span data-dur="2.337" data-begin="189.265">12月4日</span>
+##### <span data-dur="2.337" data-begin="189.265">12月4日</span>
 
 <span data-dur="3.237" data-begin="191.602">16ミリフィルム・アニメ上映会</span>
 
@@ -147,7 +147,7 @@ navigation: true
 
 <span data-dur="2.149" data-begin="201.302">ほか</span>
 
-#####<span data-dur="2.343" data-begin="203.451">12月6日</span>
+##### <span data-dur="2.343" data-begin="203.451">12月6日</span>
 
 <span data-dur="2.205" data-begin="205.794">武蔵野プレイス</span>
 <span data-dur="4.109" data-begin="207.999">武蔵野市立図書館 見学</span>
@@ -156,7 +156,7 @@ navigation: true
 <span data-dur="3.583" data-begin="213.304">平成23年12月6日</span>
 <span data-dur="2.905" data-begin="216.887">武蔵野プレイス</span>
 
-#####<span data-dur="2.633" data-begin="219.792">1月29日</span>
+##### <span data-dur="2.633" data-begin="219.792">1月29日</span>
 
 <span data-dur="2.183" data-begin="222.425">JAZZコンサート</span>
 
@@ -164,7 +164,7 @@ navigation: true
 
 <span data-dur="4.068" data-begin="230.660">東日本復興への〝祈り〟</span>
 
-#####<span data-dur="2.276" data-begin="234.728">3月4日</span>
+##### <span data-dur="2.276" data-begin="234.728">3月4日</span>
 
 <span data-dur="1.789" data-begin="237.004">コンサート</span>
 
@@ -175,9 +175,9 @@ navigation: true
 <span data-dur="2.806" data-begin="246.199">ちいさいことからはじめたい</span>
 <span data-dur="4.396" data-begin="249.005">～東日本復興へのねがい～</span>
 
-####<span data-dur="2.063" data-begin="253.401">平成24年度</span><span data-dur="2.288" data-begin="255.464">（2012年）</span>
+#### <span data-dur="2.063" data-begin="253.401">平成24年度</span><span data-dur="2.288" data-begin="255.464">（2012年）</span>
 
-#####<span data-dur="2.33" data-begin="257.752">7月1日</span>
+##### <span data-dur="2.33" data-begin="257.752">7月1日</span>
 
 <span data-dur="3.27" data-begin="260.082">16ミリフィルム上映会</span>
 
@@ -189,7 +189,7 @@ navigation: true
 
 <span data-dur="2.15" data-begin="271.250">ほか</span>
 
-#####<span data-dur="2.443" data-begin="273.400">9月16日</span>
+##### <span data-dur="2.443" data-begin="273.400">9月16日</span>
 
 <span data-dur="3.27" data-begin="275.843">16ミリフィルム上映会</span>
 
@@ -202,7 +202,7 @@ navigation: true
 <span data-dur="1.19" data-begin="290.029">ポスター：</span>
 <span data-dur="4.082" data-begin="291.219">あるアメリカ移民の女の一生</span>
 
-#####<span data-dur="2.861" data-begin="295.301">11月11日</span>
+##### <span data-dur="2.861" data-begin="295.301">11月11日</span>
 
 <span data-dur="2.183" data-begin="298.162">JAZZコンサート</span>
 <span data-dur="3.088" data-begin="300.345">～深秋ジャズコンサート～</span>
@@ -213,7 +213,7 @@ navigation: true
 
 <span data-dur="4.901" data-begin="307.392">赤レンガに響く珠玉のスタンダードジャズ</span>
 
-#####<span data-dur="2.228" data-begin="312.293">3月10日</span>
+##### <span data-dur="2.228" data-begin="312.293">3月10日</span>
 
 <span data-dur="3.158" data-begin="314.521">16ミリフィルム子ども向け</span>
 
@@ -223,15 +223,15 @@ navigation: true
 
 <span data-dur="3.927" data-begin="323.397">・三丁目物語春</span>
 
-####<span data-dur="2.098" data-begin="327.324">平成25年度</span><span data-dur="2.532" data-begin="329.422">（2013年）</span>
+#### <span data-dur="2.098" data-begin="327.324">平成25年度</span><span data-dur="2.532" data-begin="329.422">（2013年）</span>
 
-#####<span data-dur="2.636" data-begin="331.954">8月25日</span>
+##### <span data-dur="2.636" data-begin="331.954">8月25日</span>
 
 <span data-dur="3.27" data-begin="334.590">16ミリフィルム上映会</span>
 
 <span data-dur="4.642" data-begin="337.860">風の又三郎＆図書館ツアー</span>
 
-#####<span data-dur="2.424" data-begin="342.502">9月13日</span>
+##### <span data-dur="2.424" data-begin="342.502">9月13日</span>
 
 <span data-dur="5.766" data-begin="344.926">国立天文台・星と森と絵本の家見学</span>
 
@@ -240,7 +240,7 @@ navigation: true
 <span data-dur="3.552" data-begin="351.888">平成25年9月13日</span>
 <span data-dur="3.053" data-begin="355.440">国立天文台</span>
 
-#####<span data-dur="2.236" data-begin="358.493">10月6日</span>
+##### <span data-dur="2.236" data-begin="358.493">10月6日</span>
 
 <span data-dur="2.25" data-begin="360.729">16ミリフィルム</span>
 
@@ -250,7 +250,7 @@ navigation: true
 
 <span data-dur="3.264" data-begin="369.104">・長靴をはいた猫</span>
 
-#####<span data-dur="2.675" data-begin="372.368">2月23日</span>
+##### <span data-dur="2.675" data-begin="372.368">2月23日</span>
 
 <span data-dur="4.226" data-begin="375.043">16ミリフィルム上映会＆座談会</span>
 
@@ -262,9 +262,9 @@ navigation: true
 <span data-dur="1.19" data-begin="388.663">ポスター：</span>
 <span data-dur="5.87" data-begin="389.853">尾久機関区と蒸気機関車C62</span>
 
-####<span data-dur="2.187" data-begin="395.723">平成26年度</span><span data-dur="2.361" data-begin="397.910">（2014年）	</span>
+#### <span data-dur="2.187" data-begin="395.723">平成26年度</span><span data-dur="2.361" data-begin="397.910">（2014年）	</span>
 
-#####<span data-dur="2.209" data-begin="400.271">7月6日</span>
+##### <span data-dur="2.209" data-begin="400.271">7月6日</span>
 
 <span data-dur="2.251" data-begin="402.480">16ミリフィルム</span>
 
@@ -272,11 +272,11 @@ navigation: true
 
 <span data-dur="2.417" data-begin="407.645">・その他</span>
 
-#####<span data-dur="2.842" data-begin="410.062">10月31日</span>
+##### <span data-dur="2.842" data-begin="410.062">10月31日</span>
 
 <span data-dur="3.825" data-begin="412.904">都立多摩図書館見学</span>
 
-#####<span data-dur="2.831" data-begin="416.729">11月16日</span>
+##### <span data-dur="2.831" data-begin="416.729">11月16日</span>
 
 <span data-dur="1.75" data-begin="419.560">16ミリフィルム・</span>
 <span data-dur="5.145" data-begin="421.310">ムーミンの原作者トーベ・ヤンソン生誕100周年</span>
@@ -287,7 +287,7 @@ navigation: true
 
 <span data-dur="3.039" data-begin="431.555">・落ちてきた星の子</span>
 
-#####<span data-dur="2.602" data-begin="434.594">2月22日</span>
+##### <span data-dur="2.602" data-begin="434.594">2月22日</span>
 
 <span data-dur="3.269" data-begin="437.196">16ミリフィルム上映会</span>
 
@@ -300,9 +300,9 @@ navigation: true
 <span data-dur="1.189" data-begin="450.232">ポスター：</span>
 <span data-dur="3.264" data-begin="451.421">悪魔の発明</span>
 
-####<span data-dur="2.138" data-begin="454.685">平成27年度</span><span data-dur="2.345" data-begin="456.823">（2015年）</span>
+#### <span data-dur="2.138" data-begin="454.685">平成27年度</span><span data-dur="2.345" data-begin="456.823">（2015年）</span>
 
-#####<span data-dur="2.236" data-begin="459.168">7月5日</span>
+##### <span data-dur="2.236" data-begin="459.168">7月5日</span>
 
 <span data-dur="3.27" data-begin="461.404">16ミリフィルム上映会</span>
 
@@ -314,11 +314,11 @@ navigation: true
 
 <span data-dur="2.513" data-begin="473.320">・オバケちゃん</span>
 
-#####<span data-dur="2.424" data-begin="475.833">7月15日</span>
+##### <span data-dur="2.424" data-begin="475.833">7月15日</span>
 
 <span data-dur="3.546" data-begin="478.257">野口研究所見学</span>
 
-#####<span data-dur="2.593" data-begin="481.803">11月1日</span>
+##### <span data-dur="2.593" data-begin="481.803">11月1日</span>
 
 <span data-dur="3.27" data-begin="484.396">16ミリフィルム上映会</span>
 
@@ -335,7 +335,7 @@ navigation: true
 <span data-dur="1.196" data-begin="497.852">写真：</span>
 <span data-dur="3.178" data-begin="499.048">アニメ落語館</span>
 
-#####<span data-dur="2.721" data-begin="502.226">2月28日</span>
+##### <span data-dur="2.721" data-begin="502.226">2月28日</span>
 
 <span data-dur="3.27" data-begin="504.947">16ミリフィルム上映会</span>
 
@@ -346,7 +346,7 @@ navigation: true
 <span data-dur="1.196" data-begin="516.117">写真：</span>
 <span data-dur="4.451" data-begin="517.313">16ミリフィルム・オーケストラの少女</span>
 
-#####<span data-dur="2.349" data-begin="521.764">3月9日</span>
+##### <span data-dur="2.349" data-begin="521.764">3月9日</span>
 
 <span data-dur="4.517" data-begin="524.113">国立国際子ども図書館見学</span>
 
@@ -354,9 +354,9 @@ navigation: true
 <span data-dur="3.533" data-begin="529.826">平成28年3月9日</span>
 <span data-dur="3.513" data-begin="533.359">国際子ども図書館</span>
 
-####<span data-dur="2.195" data-begin="536.872">平成28年度</span><span data-dur="2.39" data-begin="539.067">（2016年）	</span>
+#### <span data-dur="2.195" data-begin="536.872">平成28年度</span><span data-dur="2.39" data-begin="539.067">（2016年）	</span>
 
-#####<span data-dur="2.765" data-begin="541.457">8月21日</span>
+##### <span data-dur="2.765" data-begin="541.457">8月21日</span>
 
 <span data-dur="3.27" data-begin="544.222">16ミリフィルム上映会</span>
 
@@ -368,7 +368,7 @@ navigation: true
 
 <span data-dur="2.15" data-begin="555.130">ほか</span>
 
-#####<span data-dur="2.438" data-begin="557.280">11月6日</span>
+##### <span data-dur="2.438" data-begin="557.280">11月6日</span>
 
 <span data-dur="3.27" data-begin="559.718">16ミリフィルム上映会</span>
 
@@ -380,11 +380,11 @@ navigation: true
 
 <span data-dur="2.15" data-begin="571.979">ほか</span>
 
-#####<span data-dur="2.725" data-begin="574.129">11月12日</span>
+##### <span data-dur="2.725" data-begin="574.129">11月12日</span>
 
 <span data-dur="2.966" data-begin="576.854">銀鱗文庫見学</span>
 
-#####<span data-dur="2.168" data-begin="579.820">2月5日</span>
+##### <span data-dur="2.168" data-begin="579.820">2月5日</span>
 
 <span data-dur="3.27" data-begin="581.988">16ミリフィルム上映会</span>
 
@@ -397,13 +397,13 @@ navigation: true
 <span data-dur="1.196" data-begin="595.054">写真：</span>
 <span data-dur="3.97" data-begin="596.250">16ミリフィルム上映会</span>
 
-#####<span data-dur="2.522" data-begin="600.220">2月13日</span>
+##### <span data-dur="2.522" data-begin="600.220">2月13日</span>
 
 <span data-dur="4.25" data-begin="602.742">調布市立図書館見学</span>
 
-####<span data-dur="2.07" data-begin="606.992">平成29年度</span><span data-dur="2.395" data-begin="609.062">（2017年）	</span>
+#### <span data-dur="2.07" data-begin="606.992">平成29年度</span><span data-dur="2.395" data-begin="609.062">（2017年）	</span>
 
-#####<span data-dur="2.519" data-begin="611.457">7月30日</span>
+##### <span data-dur="2.519" data-begin="611.457">7月30日</span>
 
 <span data-dur="3.27" data-begin="613.976">16ミリフィルム上映会</span>
 
@@ -418,7 +418,7 @@ navigation: true
 <span data-dur="1.189" data-begin="628.727">ポスター：</span>
 <span data-dur="3.232" data-begin="629.916">夏のアニメ映画会</span>
 
-#####<span data-dur="2.66" data-begin="633.148">10月22日</span>
+##### <span data-dur="2.66" data-begin="633.148">10月22日</span>
 
 <span data-dur="3.27" data-begin="635.808">16ミリフィルム上映会</span>
 
@@ -426,7 +426,7 @@ navigation: true
 
 <span data-dur="2.838" data-begin="640.696">少年と海</span>
 
-#####<span data-dur="2.813" data-begin="643.534">11月17日</span>
+##### <span data-dur="2.813" data-begin="643.534">11月17日</span>
 
 <span data-dur="5.925" data-begin="646.347">国立国会図書館東京本館見学</span>
 <!--span data-dur="1.127" data-begin="652.272">以上で</span>

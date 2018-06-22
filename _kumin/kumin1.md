@@ -3,7 +3,7 @@ layout: caymanyomi
 docid: kumin1
 title: 北区図書館活動区民の会 １０年のあゆみ
 author: 北区図書館活動区民の会
-date: 2018-06-21T22:44:23Z
+date: 2018-06-21T22:43:46Z
 oto: kumin1/sound0001
 iro: 5C9A12
 gra: ACF2F2
@@ -19,9 +19,9 @@ navigation: true
 <span data-dur="3.03" data-begin="7.180">約10分20秒消す</span>
 <span data-dur="2.781" data-begin="10.210">年表です。</span-->
 
-###<span data-dur="2.404" data-begin="12.991">平成19年</span>
+### <span data-dur="2.404" data-begin="12.991">平成19年</span>
 
-####<span data-dur="1.786" data-begin="15.395">10月</span>
+#### <span data-dur="1.786" data-begin="15.395">10月</span>
 
 <span data-dur="5.454" data-begin="17.181">北区図書館活動区民の会設立総会</span>
 <span data-dur="3.167" data-begin="22.635">会長に鵜沢八千代氏選任</span>
@@ -34,9 +34,9 @@ navigation: true
 <span data-dur="1.536" data-begin="37.107">地域資料部、</span>
 <span data-dur="2.639" data-begin="38.643">子ども部</span>
 
-###<span data-dur="1.839" data-begin="41.282">２０年</span>
+### <span data-dur="1.839" data-begin="41.282">２０年</span>
 
-####<span data-dur="1.652" data-begin="43.121">５月</span>
+#### <span data-dur="1.652" data-begin="43.121">５月</span>
 
 <span data-dur="2.39" data-begin="44.773">第１回定期総会</span>
 <span data-dur="2.834" data-begin="47.163">（5/10）</span>
@@ -50,7 +50,7 @@ navigation: true
 <span data-dur="1.657" data-begin="60.981">事務局設置</span>
 <span data-dur="3.07" data-begin="62.638">（専従者１名）</span>
 
-####<span data-dur="1.814" data-begin="65.708">６月</span>
+#### <span data-dur="1.814" data-begin="65.708">６月</span>
 
 <span data-dur="4.866" data-begin="67.522">「北区立中央図書館開館記念事業運営」</span>
 <span data-dur="2.403" data-begin="72.388">受託</span>
@@ -63,7 +63,7 @@ navigation: true
 <span data-dur="2.943" data-begin="85.336">地域資料データベース化の検討」</span>
 <span data-dur="2.403" data-begin="88.279">受託</span>
 
-####<span data-dur="1.757" data-begin="90.682">８月</span>
+#### <span data-dur="1.757" data-begin="90.682">８月</span>
 
 <span data-dur="1.93" data-begin="92.439">開館記念イベント：</span>
 <span data-dur="1.313" data-begin="94.369">講演会</span>
@@ -72,12 +72,12 @@ navigation: true
 <span data-dur="1.872" data-begin="98.376">（11月2回、</span>
 <span data-dur="2.925" data-begin="100.248">1月1回）</span>
 
-####<span data-dur="1.787" data-begin="103.173">１０月</span>
+#### <span data-dur="1.787" data-begin="103.173">１０月</span>
 
 <span data-dur="2.172" data-begin="104.960">「バリアフリーガイドツアー」</span>
 <span data-dur="2.263" data-begin="107.132">開始</span>
 
-####<span data-dur="2.066" data-begin="109.395">１１月</span>
+#### <span data-dur="2.066" data-begin="109.395">１１月</span>
 
 <span data-dur="1.783" data-begin="111.461">「歴史講演会」</span>
 <span data-dur="1.063" data-begin="113.244">開始</span>
@@ -100,14 +100,14 @@ navigation: true
 <span data-dur="1.197" data-begin="136.225">写真：</span>
 <span data-dur="4.5" data-begin="137.422">建築前の赤レンガ建造</span>
 
-###<span data-dur="2.12" data-begin="141.922">２１年</span>
+### <span data-dur="2.12" data-begin="141.922">２１年</span>
 
-####<span data-dur="1.666" data-begin="144.042">２月</span>
+#### <span data-dur="1.666" data-begin="144.042">２月</span>
 
 <span data-dur="3.007" data-begin="145.708">中央図書館避難訓練に</span>
 <span data-dur="3.262" data-begin="148.715">参加協力開始</span>
 
-####<span data-dur="1.745" data-begin="151.977">４月</span>
+#### <span data-dur="1.745" data-begin="151.977">４月</span>
 
 <span data-dur="2.33" data-begin="153.722">「ブックスタート配布事業」</span>
 <span data-dur="1.606" data-begin="156.052">受託開始</span>
@@ -133,13 +133,13 @@ navigation: true
 <span data-dur="4.098" data-begin="194.769">会場：東十条図書館・区民センター</span>
 <span data-dur="2.289" data-begin="198.867">（子ども部）</span>
 
-####<span data-dur="1.652" data-begin="201.156">５月</span>
+#### <span data-dur="1.652" data-begin="201.156">５月</span>
 
 <span data-dur="1.808" data-begin="202.808">「絵本の読みくらべ」</span>
 <span data-dur="1.607" data-begin="204.616">受託開始</span>
 <span data-dur="2.288" data-begin="206.223">（子ども部）</span>
 
-####<span data-dur="1.766" data-begin="208.511">７月</span>
+#### <span data-dur="1.766" data-begin="208.511">７月</span>
 
 <span data-dur="2.769" data-begin="210.277">「１６ミリフィルム上映会」</span>
 <span data-dur="1.063" data-begin="213.046">開始</span>
@@ -153,20 +153,20 @@ navigation: true
 <span data-dur="1.203" data-begin="226.966">受託</span>
 <span data-dur="2.762" data-begin="228.169">（ユニバーサル部）</span>
 
-####<span data-dur="1.757" data-begin="230.931">８月</span>
+#### <span data-dur="1.757" data-begin="230.931">８月</span>
 
 <span data-dur="2.451" data-begin="232.688">「中学生向けワークショップ」</span>
 <span data-dur="2.409" data-begin="235.139">開始</span>
 <span data-dur="1.062" data-begin="237.548">（地域資料部）</span>
 
-####<span data-dur="2.737" data-begin="238.610">１０月</span>
+#### <span data-dur="2.737" data-begin="238.610">１０月</span>
 
 <span data-dur="1.787" data-begin="241.347">開館１周年記念</span>
 <span data-dur="2.505" data-begin="243.134">「魅惑のナイトジャズコンサート」</span>
 <span data-dur="2.447" data-begin="245.639">開催</span>
 <span data-dur="1.115" data-begin="248.086">（企画・広報部）</span>
 
-####<span data-dur="3.133" data-begin="249.201">１２月</span>
+#### <span data-dur="3.133" data-begin="249.201">１２月</span>
 
 <span data-dur="1.952" data-begin="252.334">「バリアフリー映画会」</span>
 <span data-dur="1.992" data-begin="254.286">開始</span>
@@ -174,9 +174,9 @@ navigation: true
 <span data-dur="1.416" data-begin="257.341">年度4回）</span>
 <span data-dur="1.599" data-begin="258.757">（ユニバーサル部）</span>
 
-###<span data-dur="3.112" data-begin="260.356">２２年</span>
+### <span data-dur="3.112" data-begin="260.356">２２年</span>
 
-####<span data-dur="2.023" data-begin="263.468">１月</span>
+#### <span data-dur="2.023" data-begin="263.468">１月</span>
 
 <span data-dur="1.75" data-begin="265.491">「北区史を語る会</span>
 <span data-dur="1.903" data-begin="267.241">（史は歴史のシ消す）</span>
@@ -187,12 +187,12 @@ navigation: true
 <span data-dur="1.618" data-begin="273.410">）</span>
 <span data-dur="0.5" data-begin="275.028">（地域資料部）</span>
 
-####<span data-dur="2.736" data-begin="275.528">３月</span>
+#### <span data-dur="2.736" data-begin="275.528">３月</span>
 
 <span data-dur="1.766" data-begin="278.264">マナーアップ月間の実施</span>
 <span data-dur="2.514" data-begin="280.030">（企画・広報部）</span>
 
-####<span data-dur="3.134" data-begin="282.544">４月</span>
+#### <span data-dur="3.134" data-begin="282.544">４月</span>
 
 <span data-dur="1.745" data-begin="285.678">「北区図書館利用推進事業」</span>
 <span data-dur="3.121" data-begin="287.423">受託開始</span>
@@ -201,7 +201,7 @@ navigation: true
 <span data-dur="2.27" data-begin="293.351">開始</span>
 <span data-dur="1.063" data-begin="295.621">（地域資料部）</span>
 
-####<span data-dur="2.737" data-begin="296.684">９月</span>
+#### <span data-dur="2.737" data-begin="296.684">９月</span>
 
 <span data-dur="1.505" data-begin="299.421">「バリアフリーおはなし会</span>
 <span data-dur="2.158" data-begin="300.926">（手話つき）</span>
@@ -209,9 +209,9 @@ navigation: true
 <span data-dur="0.5" data-begin="304.407">開始</span>
 <span data-dur="1.063" data-begin="304.907">（ユニバーサル部・子ども部）</span>
 
-###<span data-dur="3.797" data-begin="305.970">２３年</span>
+### <span data-dur="3.797" data-begin="305.970">２３年</span>
 
-####<span data-dur="2.231" data-begin="309.767">４月</span>
+#### <span data-dur="2.231" data-begin="309.767">４月</span>
 
 <span data-dur="1.745" data-begin="311.998">「ブックスタート拡充事業」</span>
 <span data-dur="2.895" data-begin="313.743">受託開始：</span>
@@ -237,7 +237,7 @@ navigation: true
 <span data-dur="2.824" data-begin="350.609">：手話通訳つきおはなし会を開始</span>
 <span data-dur="3.091" data-begin="353.433">（子ども部・ユニバーサル部）</span>
 
-####<span data-dur="3.463" data-begin="356.524">５月</span>
+#### <span data-dur="3.463" data-begin="356.524">５月</span>
 
 <span data-dur="1.652" data-begin="359.987">第４回定期総会</span>
 
@@ -248,9 +248,9 @@ navigation: true
 
 <span data-dur="4.676" data-begin="370.832">登録会員：個人３２名、団体５組</span>
 
-###<span data-dur="5.888" data-begin="375.508">２４年</span>
+### <span data-dur="5.888" data-begin="375.508">２４年</span>
 
-####<span data-dur="2.079" data-begin="381.396">４月</span>
+#### <span data-dur="2.079" data-begin="381.396">４月</span>
 
 <span data-dur="1.745" data-begin="383.475">「中央図書館区民コンサート開催事業」</span>
 <span data-dur="4.195" data-begin="385.220">受託</span>
@@ -260,7 +260,7 @@ navigation: true
 <span data-dur="3.312" data-begin="393.753">５周年記念</span>
 <span data-dur="1.75" data-begin="397.065">「11月深秋ジャズコンサート」</span>
 
-####<span data-dur="4.579" data-begin="398.815">５月</span>
+#### <span data-dur="4.579" data-begin="398.815">５月</span>
 
 <span data-dur="1.652" data-begin="403.394">第５回定期総会</span>
 <span data-dur="2.323" data-begin="405.046">（5/27）</span>
@@ -272,16 +272,16 @@ navigation: true
 <span data-dur="1.952" data-begin="414.850">開始</span>
 <span data-dur="1.063" data-begin="416.802">（子ども部）</span>
 
-###<span data-dur="2.638" data-begin="417.865">２５年</span>
+### <span data-dur="2.638" data-begin="417.865">２５年</span>
 
-####<span data-dur="2.08" data-begin="420.503">１月</span>
+#### <span data-dur="2.08" data-begin="420.503">１月</span>
 
 <span data-dur="1.75" data-begin="422.583">「親子でなぞ解き！</span>
 <span data-dur="1.73" data-begin="424.333">中央図書館ナイトツアー」</span>
 <span data-dur="2.799" data-begin="426.063">開始</span>
 <span data-dur="1.063" data-begin="428.862">（地域資料部）</span>
 
-####<span data-dur="2.736" data-begin="429.925">５月</span>
+#### <span data-dur="2.736" data-begin="429.925">５月</span>
 
 <span data-dur="1.652" data-begin="432.661">第６回定期総会</span>
 <span data-dur="2.343" data-begin="434.313">（5/26）</span>
@@ -292,9 +292,9 @@ navigation: true
 <span data-dur="0.5" data-begin="442.217">実演：</span>
 <span data-dur="1.326" data-begin="442.717">「ビブリオバトル」</span>
 
-###<span data-dur="3.082" data-begin="444.043">２６年</span>
+### <span data-dur="3.082" data-begin="444.043">２６年</span>
 
-####<span data-dur="2.123" data-begin="447.125">５月</span>
+#### <span data-dur="2.123" data-begin="447.125">５月</span>
 
 <span data-dur="1.652" data-begin="449.248">第７回定期総会</span>
 <span data-dur="2.338" data-begin="450.900">（5/25）</span>
@@ -304,13 +304,13 @@ navigation: true
 <span data-dur="2.081" data-begin="456.518">、</span>
 <span data-dur="0.5" data-begin="458.599">「キーンさんのこぼればなし」</span>
 
-####<span data-dur="3.371" data-begin="459.099">７月</span>
+#### <span data-dur="3.371" data-begin="459.099">７月</span>
 
 <span data-dur="1.766" data-begin="462.470">「子どもの本のつどい in Kitaku」</span>
 <span data-dur="2.824" data-begin="464.236">を中央図書館で開始</span>
 <span data-dur="2.495" data-begin="467.060">（子ども部・ユニバーサル部）</span>
 
-####<span data-dur="3.464" data-begin="469.555">１０月</span>
+#### <span data-dur="3.464" data-begin="469.555">１０月</span>
 
 <span data-dur="1.786" data-begin="473.019">日本図書館協会より感謝状を授与</span>
 <span data-dur="3.728" data-begin="474.805">（第１００回図書館大会）</span>
@@ -320,9 +320,9 @@ navigation: true
 <span data-dur="2.71" data-begin="483.445">日本図書館協会</span>
 <span data-dur="2.241" data-begin="486.155">感謝状</span>
 
-###<span data-dur="2.902" data-begin="488.396">２７年</span>
+### <span data-dur="2.902" data-begin="488.396">２７年</span>
 
-####<span data-dur="2.119" data-begin="491.298">５月</span>
+#### <span data-dur="2.119" data-begin="491.298">５月</span>
 
 <span data-dur="1.652" data-begin="493.417">第８回定期総会開催</span>
 
@@ -339,33 +339,33 @@ navigation: true
 
 <span data-dur="4.584" data-begin="510.954">登録会員：個人４６名、団体５組</span>
 
-####<span data-dur="5.607" data-begin="515.538">６月</span>
+#### <span data-dur="5.607" data-begin="515.538">６月</span>
 
 <span data-dur="1.815" data-begin="521.145">「ドナルド・キーン研究会準備会」発足</span>
 <span data-dur="4.198" data-begin="522.960">（6/21）</span>
 
-####<span data-dur="3.507" data-begin="527.158">７月</span>
+#### <span data-dur="3.507" data-begin="527.158">７月</span>
 
 <span data-dur="1.765" data-begin="530.665">「区民の会たより」</span>
 <span data-dur="1.763" data-begin="532.430">第８号発行</span>
 <span data-dur="2.159" data-begin="534.193">（以後隔月発行）</span>
 <span data-dur="2.086" data-begin="536.352">（編集室）</span>
 
-###<span data-dur="2.95" data-begin="538.438">２８年</span>
+### <span data-dur="2.95" data-begin="538.438">２８年</span>
 
-####<span data-dur="2.175" data-begin="541.388">２月</span>
+#### <span data-dur="2.175" data-begin="541.388">２月</span>
 
 <span data-dur="1.666" data-begin="543.563">「ドナルド・キーンコレクションコーナー開設3周年記念</span>
 <span data-dur="4.809" data-begin="545.229">北区アンバサダー就任20周年記念事業」</span>
 <span data-dur="4.627" data-begin="550.038">業務受託開始</span>
 <span data-dur="2.301" data-begin="554.665">（2/1）</span>
 
-####<span data-dur="2.997" data-begin="556.966">３月</span>
+#### <span data-dur="2.997" data-begin="556.966">３月</span>
 
 <span data-dur="1.766" data-begin="559.963">ドナルド・キーン・センター柏崎との交流会開始</span>
 <span data-dur="4.266" data-begin="561.729">（3/7）</span>
 
-####<span data-dur="2.934" data-begin="565.995">４月</span>
+#### <span data-dur="2.934" data-begin="565.995">４月</span>
 
 <span data-dur="1.745" data-begin="568.929">子ども読書応援事業</span>
 <span data-dur="2.462" data-begin="570.674">（おはなし会ボランティア養成講座、</span>
@@ -374,9 +374,9 @@ navigation: true
 <span data-dur="1.607" data-begin="578.162">（4/1）</span>
 <span data-dur="1.84" data-begin="579.769">（子ども部）</span>
 
-###<span data-dur="2.639" data-begin="581.609">２９年</span>
+### <span data-dur="2.639" data-begin="581.609">２９年</span>
 
-####<span data-dur="2.068" data-begin="584.248">５月</span>
+#### <span data-dur="2.068" data-begin="584.248">５月</span>
 
 <span data-dur="1.652" data-begin="586.316">第10回定期総会開催</span>
 <span data-dur="3.125" data-begin="587.968">（5/28）</span>
