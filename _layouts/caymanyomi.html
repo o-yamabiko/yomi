@@ -17,7 +17,7 @@
          padding-top: 12em;
       }
       #logo {
-         background-image: url('media/index/webtop.png');
+         background-image: url('../media/index/webtop.png');
       }
         {% endif %}
         {% if page.iro %}
@@ -70,7 +70,7 @@
       {{ content }}
 
       <footer class="site-footer">
-       <div class="site-footer-owner">読み上げ版製作：<a href="{{ site.url }}">音訳グループ やまびこ<img src="media/Speaker_Icon_gray.png" srcset="media/Speaker_Icon_gray.svg" alt="音声付き" class="gyo" /></a></div>
+       <div class="site-footer-owner">読み上げ版製作：<a href="{{ site.url }}">音訳グループ やまびこ<img src="../media/Speaker_Icon_gray.png" srcset="media/Speaker_Icon_gray.svg" alt="音声付き" class="gyo" /></a></div>
       <div itemscope>
     	<time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">ページ更新日： {{ page.date | date: "%Y年%m月%d日" }}</time>
       </div>
