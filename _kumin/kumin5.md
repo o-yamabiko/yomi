@@ -6,7 +6,7 @@ author: 北区図書館活動区民の会
 date: 2018-06-15T00:00:00Z
 oto: kumin5/sound0001
 iro: 0D7B2B
-gra: ACF2F2
+gra: 9BFEB6
 background: 
 imagefrom: 
 imagefromurl: 
