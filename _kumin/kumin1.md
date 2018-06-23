@@ -5,7 +5,7 @@ title: 北区図書館活動区民の会 １０年のあゆみ
 author: 北区図書館活動区民の会
 date: 2018-06-11T00:00:00Z
 oto: kumin1/sound0001
-iro: 5C9A12
+iro: 0D7B2B
 gra: ACF2F2
 background: 
 imagefrom: 

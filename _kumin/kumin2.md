@@ -5,7 +5,7 @@ title: 北区図書館活動区民の会 企画・広報部
 author: 北区図書館活動区民の会
 date: 2018-06-12T00:00:00Z
 oto: kumin2/sound0001
-iro: 5C9A12
+iro: 0D7B2B
 gra: ACF2F2
 background: 
 imagefrom: 
