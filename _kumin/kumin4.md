@@ -186,7 +186,7 @@ navigation: true
 <span data-dur="6.182" data-begin="357.383">小説・絵本などの朗読に手話通訳を付けています。	</span>
 
 <span data-dur="2.824" data-begin="363.565">こどもの本のつどい in Kitaku</span>
-<span data-dur="1.6" data-begin="366.389">（子供部主催）</span>  
+<span data-dur="1.6" data-begin="366.389">（子供部主催）</span>
 <span data-dur="3.906" data-begin="367.989">：北区聴覚障害者協会の方々といっしょに</span>
 <span data-dur="4.187" data-begin="371.895">手話体験コーナーを担当します。</span>
 
