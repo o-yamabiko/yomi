@@ -85,14 +85,14 @@ navigation: true
 <span data-dur="2.712" data-begin="127.447">王電から荒川線へ</span>
 
 <span data-dur="1.578" data-begin="130.159">伊藤暢直</span>
-<span data-dur="4.487" data-begin="131.737">（豊島区教育委員会学芸員）</span>
+<span data-dur="4.487" data-begin="131.737">（豊島区教育委員会 学芸員）</span>
 
 ##### <span data-dur="2.132" data-begin="136.224">2月7日</span>
 
 <span data-dur="3.331" data-begin="138.356">「紙」と北区の近代産業</span>
 
 <span data-dur="1.661" data-begin="141.687">植地勢作</span>
-<span data-dur="4.461" data-begin="143.348">（紙の博物館学芸員）</span>
+<span data-dur="4.461" data-begin="143.348">（紙の博物館 学芸員）</span>
 
 #### <span data-dur="2.555" data-begin="147.809">平成22年度</span>
 
@@ -102,7 +102,7 @@ navigation: true
 <span data-dur="3.422" data-begin="155.282">～北区の新旧名橋を例として～</span>
 
 <span data-dur="1.409" data-begin="158.704">中井祐</span>
-<span data-dur="4.066" data-begin="160.113">（東京大学工学部教授）</span>
+<span data-dur="4.066" data-begin="160.113">（東京大学工学部 教授）</span>
 
 ##### <span data-dur="3.021" data-begin="164.179">11月28日</span>
 
@@ -110,7 +110,7 @@ navigation: true
 <span data-dur="4.751" data-begin="171.258">北区域の被害状況とその後の治水政策</span>
 
 <span data-dur="1.741" data-begin="176.009">領塚正浩</span>
-<span data-dur="4.701" data-begin="177.750">（市川考古博物館学芸員）</span>
+<span data-dur="4.701" data-begin="177.750">（市川考古博物館 学芸員）</span>
 
 ##### <span data-dur="2.709" data-begin="182.451">2月26日</span>
 
@@ -129,7 +129,7 @@ navigation: true
 <span data-dur="3.808" data-begin="206.898">～十条跨線橋梁をはじめとして～</span>
 
 <span data-dur="1.433" data-begin="210.706">小野田滋</span>
-<span data-dur="6.726" data-begin="212.139">（公益財団法人鉄道総合技術研究所工学博士）</span>
+<span data-dur="6.726" data-begin="212.139">（公益財団法人 鉄道総合技術研究所 工学博士）</span>
 
 ##### <span data-dur="2.454" data-begin="218.865">11月20日</span>
 
@@ -143,7 +143,7 @@ navigation: true
 <span data-dur="3.597" data-begin="235.189">赤羽や十条につくられた住宅</span>
 
 <span data-dur="1.715" data-begin="238.786">川上悠介</span>
-<span data-dur="5.481" data-begin="240.501">（港区港郷土資料館学芸員）</span>
+<span data-dur="5.481" data-begin="240.501">（港区港郷土資料館 学芸員）</span>
 
 #### <span data-dur="2.563" data-begin="245.982">平成24年度</span>
 
@@ -153,7 +153,7 @@ navigation: true
 <span data-dur="3.077" data-begin="254.489">～学校の資料から見えるもの</span>
 
 <span data-dur="1.661" data-begin="257.566">中村修</span>
-<span data-dur="4.682" data-begin="259.227">（藤沢市文書館史料専門員）</span>
+<span data-dur="4.682" data-begin="259.227">（藤沢市文書館 史料専門員）</span>
 
 ##### <span data-dur="2.511" data-begin="263.909">2月17日</span>
 
@@ -163,7 +163,7 @@ navigation: true
 <span data-dur="2.34" data-begin="273.795">の歩みと現在～</span>
 
 <span data-dur="1.644" data-begin="276.135">鎮目良文</span>
-<span data-dur="4.619" data-begin="277.779">（たばこと塩の博物館学芸員）</span>
+<span data-dur="4.619" data-begin="277.779">（たばこと塩の博物館 学芸員）</span>
 
 #### <span data-dur="2.599" data-begin="282.398">平成25年度</span>
 
@@ -176,7 +176,7 @@ navigation: true
 <span data-dur="2.846" data-begin="299.085">お札と王子と滝野川</span>
 
 <span data-dur="1.293" data-begin="301.931">川仁央</span>
-<span data-dur="8.175" data-begin="303.224">（独立行政法人国立印刷局お札と切手の博物館学芸員）</span>
+<span data-dur="8.175" data-begin="303.224">（独立行政法人国立印刷局 お札と切手の博物館 学芸員）</span>
 
 ##### <span data-dur="2.637" data-begin="311.399">1月25日</span>
 
@@ -184,7 +184,7 @@ navigation: true
 <span data-dur="3.854" data-begin="321.661">～その目標・実態・被害～</span>
 
 <span data-dur="1.593" data-begin="325.515">青木哲夫</span>
-<span data-dur="6.667" data-begin="327.108">（東京大空襲・戦時資料センター主任研究員）</span>
+<span data-dur="6.667" data-begin="327.108">（東京大空襲・戦時資料センター 主任研究員）</span>
 
 #### <span data-dur="2.687" data-begin="333.775">平成26年度</span>
 
@@ -203,7 +203,7 @@ navigation: true
 <span data-dur="5.137" data-begin="358.382">渋沢栄一と滝野川・王子地域との関わり</span>
 
 <span data-dur="1.788" data-begin="363.519">桑原功一</span>
-<span data-dur="4.675" data-begin="365.307">（渋沢史料館学芸員）</span>
+<span data-dur="4.675" data-begin="365.307">（渋沢史料館 学芸員）</span>
 
 #### <span data-dur="2.638" data-begin="369.982">平成27年度</span>
 
@@ -213,7 +213,7 @@ navigation: true
 <span data-dur="2.938" data-begin="378.309">～滝野川と醸造試験所～</span>
 
 <span data-dur="1.31" data-begin="381.247">小野玄記</span>
-<span data-dur="7.441" data-begin="382.557">（独立行政法人酒類総合研究所情報技術支援部門長）</span>
+<span data-dur="7.441" data-begin="382.557">（独立行政法人 酒類総合研究所 情報技術支援部門長）</span>
 
 ##### <span data-dur="2.521" data-begin="389.998">2月13日</span>
 
@@ -256,7 +256,7 @@ navigation: true
 <span data-dur="4.867" data-begin="449.576">｢渋沢栄一と城北地域の社会福祉事業｣</span>
 
 <span data-dur="1.788" data-begin="454.443">桑原功一</span>
-<span data-dur="4.621" data-begin="456.231">（渋沢資料副館長館学芸員）</span>
+<span data-dur="4.621" data-begin="456.231">（渋沢資料副館長 館学芸員）</span>
 
 <!--span data-dur="2.985" data-begin="460.852">表終わり</span-->
 
@@ -273,7 +273,7 @@ navigation: true
 
 #### <span data-dur="2.063" data-begin="485.246">平成24年度</span>
 
-<span data-dur="3.181" data-begin="487.309">新井幸雄王子輪業店主</span>
+<span data-dur="3.181" data-begin="487.309">新井幸雄 王子輪業 店主</span>
 <span data-dur="2.806" data-begin="490.490">『キャンプ王子の往時とその界隈</span>
 <span data-dur="3.448" data-begin="493.296">～進駐軍から中央公園まで』</span>
 
@@ -292,18 +292,18 @@ navigation: true
 
 #### <span data-dur="2.138" data-begin="516.778">平成27年度</span>
 
-<span data-dur="3.134" data-begin="518.916">和田隆永七社神社神主</span>
+<span data-dur="3.134" data-begin="518.916">和田隆永 七社神社 神主</span>
 <span data-dur="1.65" data-begin="522.050">『私と七社</span>
 <span data-dur="2.321" data-begin="523.700">七社と西ヶ原』</span>
 
 #### <span data-dur="2.194" data-begin="526.021">平成28年度</span>
 
-<span data-dur="4.755" data-begin="528.215">大塚定次郎大塚楽器製作所相談役</span>
+<span data-dur="4.755" data-begin="528.215">大塚定次郎 大塚楽器製作所 相談役</span>
 <span data-dur="2.919" data-begin="532.970">『田端と楽器に80年』</span>
 
 #### <span data-dur="2.069" data-begin="535.889">平成29年度</span>
 
-<span data-dur="3.988" data-begin="537.958">榎本武男上中里不動産社長</span>
+<span data-dur="3.988" data-begin="537.958">榎本武男 上中里不動産 社長</span>
 <span data-dur="1.924" data-begin="541.946">『上中里に代々</span>
 <span data-dur="3.586" data-begin="543.870">～鉄路の街と人々』</span>
 
