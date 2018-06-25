@@ -268,7 +268,7 @@ navigation: true
 
 #### <span data-dur="2.226" data-begin="478.335">平成23年度</span>
 
-<span data-dur="2.656" data-begin="480.561">北本正雄元区長</span>
+<span data-dur="2.656" data-begin="480.561">北本正雄 元区長</span>
 <span data-dur="2.029" data-begin="483.217">『北区を想う』</span>
 
 #### <span data-dur="2.063" data-begin="485.246">平成24年度</span>
