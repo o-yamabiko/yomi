@@ -19,9 +19,9 @@ navigation: true
 <span data-dur="3.03" data-begin="7.180">約10分20秒消す</span>
 <span data-dur="2.781" data-begin="10.210">年表です。</span-->
 
-### <span data-dur="2.404" data-begin="12.991">平成19年</span>
+### <span data-dur="2.404" data-begin="12.991">平成１９年</span>
 
-#### <span data-dur="1.786" data-begin="15.395">10月</span>
+#### <span data-dur="1.786" data-begin="15.395">１０月</span>
 
 <span data-dur="5.454" data-begin="17.181">北区図書館活動区民の会設立総会</span>
 <span data-dur="3.167" data-begin="22.635">会長に鵜沢八千代氏選任</span>
