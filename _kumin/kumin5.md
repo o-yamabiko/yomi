@@ -46,21 +46,21 @@ navigation: true
 <span data-dur="3.552" data-begin="52.229">画像が語る王子の200年</span>
 <span data-dur="5.451" data-begin="55.781">時代とともに変化していく｢王子｣の姿を画像で振り返る</span>
 
-<span data-dur="4.11" data-begin="61.232">有馬純雄地域研究家</span>
+<span data-dur="4.11" data-begin="61.232">有馬純雄 地域研究家</span>
 
 ##### <span data-dur="2.638" data-begin="65.342">1月25日</span>
 
 <span data-dur="3.58" data-begin="67.980">北区の産業はじめて物語</span>
 <span data-dur="2.937" data-begin="71.560">～レンガもお札もコットンも～</span>
 
-<span data-dur="4.818" data-begin="74.497">黒川徳男日本近代史研究家</span>
+<span data-dur="4.818" data-begin="74.497">黒川徳男 日本近代史研究家</span>
 
 ##### <span data-dur="2.465" data-begin="79.315">3月15日</span>
 
 <span data-dur="3.747" data-begin="81.780">王子土産にお茶はいかが？</span>
 <span data-dur="3.97" data-begin="85.527">―旧十条村醍醐家文書の世界―</span>
 
-<span data-dur="4.865" data-begin="89.497">保垣孝幸近世史研究家</span>
+<span data-dur="4.865" data-begin="89.497">保垣孝幸 近世史研究家</span>
 
 #### <span data-dur="2.656" data-begin="94.362">平成21年度</span>
 
