@@ -1,12 +1,48 @@
 ---
 layout: caymanyomi
-title: 周年行事パネル
-author: 音訳グループ やまびこ
-date: 2018-06-10T12:00:00Z
-oto: kumin0/sound0001
-iro: CF6A4F
-gra: FFC7B8
+docid: kumin7
+title: ごあいさつ
+author: 北区図書館活動区民の会
+date: 2018-06-09T00:00:00Z
+oto: kumin7/sound0001
+iro: 0D7B2B
+gra: 9BFEB6
+background: 
+imagefrom: 
+imagefromurl: 
 navigation: true
 ---
+   
+## <span data-dur="3.312" data-begin="0.000">北区図書館活動区民の会</span><span data-dur="2.327" data-begin="3.312">10周年記念</span>
 
-# <span data-dur="2" data-begin="0">周年行事パネル読み上げ用ページ7</span>
+<!--span data-dur="1.641" data-begin="5.639">読み上げ時間</span>
+<span data-dur="2.986" data-begin="7.280">約1分15秒消す</span-->
+
+### <span data-dur="2.273" data-begin="10.266">10年間の活動を</span><span data-dur="2.89" data-begin="12.539">パネル展示で紹介！</span>
+
+<span data-dur="3.71" data-begin="15.429">平成30年6月29日</span>
+<span data-dur="1.272" data-begin="19.139">（金）</span>
+<span data-dur="2.816" data-begin="20.411">～8月31日</span>
+<span data-dur="1.772" data-begin="23.227">（金）</span>
+
+<span data-dur="3.389" data-begin="24.999">※各パネルに付いているQRコードを</span>
+<span data-dur="2.496" data-begin="28.388">スマートフォンなどで読み取ると、</span>
+<span data-dur="4.95" data-begin="30.884">読み上げ音声のページを開くことができます。</span>  
+<span data-dur="4.764" data-begin="35.834">音が出ますのでご注意ください。</span>
+
+### <span data-dur="3.775" data-begin="40.598">図書館でボランティア活動を！</span>
+
+<span data-dur="1.296" data-begin="44.373">皆さんも、</span>
+<span data-dur="3.99" data-begin="45.669">図書館と協働で始めませんか？</span>
+
+<span data-dur="3.203" data-begin="49.659">5つの部があります。</span>
+
+<span data-dur="2.336" data-begin="52.862">中央図書館3階の</span>  
+<span data-dur="1.383" data-begin="55.198">「区民の会</span>
+<span data-dur="1.623" data-begin="56.581">活動コーナー」</span>
+<span data-dur="3.441" data-begin="58.204">にお立ち寄りください。</span>
+
+<!--span data-dur="1.127" data-begin="61.645">以上で、</span>
+<span data-dur="3.312" data-begin="62.772">北区図書館活動区民の会</span>
+<span data-dur="1.827" data-begin="66.084">10周年記念</span>
+<span data-dur="3.389" data-begin="67.911">の読み上げを終わります消す。</span-->
