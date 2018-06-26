@@ -3,7 +3,7 @@ layout: caymanyomi
 docid: kumin0
 title: ごあいさつ
 author: 北区図書館活動区民の会
-date: 2018-06-10T00:00:00Z
+date: 2018-06-26T10:00:00Z
 oto: kumin0/sound0001
 iro: 0D7B2B
 gra: 9BFEB6

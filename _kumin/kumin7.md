@@ -1,9 +1,9 @@
 ---
 layout: caymanyomi
 docid: kumin7
-title: ごあいさつ
+title: 北区図書館活動区民の会 10周年記念
 author: 北区図書館活動区民の会
-date: 2018-06-09T00:00:00Z
+date: 2018-06-26T09:00:00Z
 oto: kumin7/sound0001
 iro: 0D7B2B
 gra: 9BFEB6

@@ -3,7 +3,7 @@ layout: caymanyomi
 docid: kumin3
 title: 北区図書館活動区民の会 子ども部
 author: 北区図書館活動区民の会
-date: 2018-06-13T00:00:00Z
+date: 2018-06-26T13:00:00Z
 oto: kumin3/sound0001
 iro: 0D7B2B
 gra: 9BFEB6
