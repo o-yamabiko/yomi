@@ -68,48 +68,48 @@ navigation: true
 <span data-dur="2.353" data-begin="118.259">一年間の各事業を</span>
 <span data-dur="4.603" data-begin="120.612">10周年記念事業としてさらに充実させるとともに、</span>
 <span data-dur="2.159" data-begin="125.215">設立当時の思いや</span>
-<span data-dur="1.903" data-begin="127.374">1）</span>
-<span data-dur="0.936" data-begin="129.277">「協働の場」として</span>
-<span data-dur="1.765" data-begin="130.213">２）</span>
-<span data-dur="0.732" data-begin="131.978">３）</span>
-<span data-dur="2.311" data-begin="132.710">「創造の場」として</span>
-<span data-dur="0.993" data-begin="135.021">を再確認しながら、</span>
-<span data-dur="1.833" data-begin="136.014">これからの活動をさらに創造していく</span>
-<span data-dur="1.932" data-begin="137.847">節目の年にしていきたいと考えています。</span>
+<span data-dur="1.903" data-begin="127.374">会の役割</span>
+<u><span data-dur="0.936" data-begin="129.277">１）</span>
+<span data-dur="1.765" data-begin="130.213">「協働の場」として</span></u>
+<u><span data-dur="0.732" data-begin="131.978">２）</span>
+<span data-dur="2.311" data-begin="132.710">「生涯学習の場」として</span></u>
+<u><span data-dur="0.993" data-begin="135.021">３）</span>
+<span data-dur="1.833" data-begin="136.014">「創造の場」として</span></u>
+<span data-dur="1.932" data-begin="137.847">を再確認しながら、</span>
+<span data-dur="3.71" data-begin="139.779">これからの活動をさらに創造していく</span>
+<span data-dur="4.554" data-begin="143.489">節目の年にしていきたいと考えています。</span>
 
-<span data-dur="3.71" data-begin="139.779">今後ともご理解ご協力の程</span>
-<span data-dur="4.554" data-begin="143.489">よろしくお願いいたします。</span>
+<span data-dur="3.169" data-begin="148.043">今後ともご理解ご協力の程</span>
+<span data-dur="3.816" data-begin="151.212">よろしくお願いいたします。</span>
 
-### <span data-dur="3.169" data-begin="148.043">北区図書館活動区民の会１０周年を迎えて</span>
+### <span data-dur="5.974" data-begin="155.028">北区図書館活動区民の会１０周年を迎えて</span>
 
-<span data-dur="3.816" data-begin="151.212">北区立中央図書館長</span>
-<span data-dur="5.974" data-begin="155.028">堀田哲二</span>
+<span data-dur="2.864" data-begin="161.002">北区立中央図書館長</span>
+<span data-dur="2.313" data-begin="163.866">堀田哲二</span>
 
-<span data-dur="2.864" data-begin="161.002">北区図書館活動区民の会が創立１０周年を迎えられましたこと、</span>
-<span data-dur="2.313" data-begin="163.866">心からお慶びとお祝いを申し上げます。</span>
+<span data-dur="6.512" data-begin="166.179">北区図書館活動区民の会が創立１０周年を迎えられましたこと、</span>
+<span data-dur="4.75" data-begin="172.691">心からお慶びとお祝いを申し上げます。</span>
 
-<span data-dur="6.512" data-begin="166.179">「区民と行政が一緒に創っていくシステムをもった図書館を目指して」</span>
-<span data-dur="4.75" data-begin="172.691">を合言葉に、</span>
-<span data-dur="5.694" data-begin="177.441">協働型図書館のパートナーとして設立された区民の会におきましては、</span>
-<span data-dur="1.463" data-begin="183.135">これまで図書館の様々な事業の</span>
-<span data-dur="5.712" data-begin="184.598">企画、調整、実施の取組みを進めてきました。</span>
-<span data-dur="3.362" data-begin="190.310">現在５つの部会活動を中心に</span>
-<span data-dur="5.163" data-begin="193.672">読書推進活動や</span>
-<span data-dur="3.875" data-begin="198.835">誰でも利用しやすい図書館づくり、</span>
-<span data-dur="2.338" data-begin="202.710">貴重な地域資料の調査、発信、</span>
-<span data-dur="3.018" data-begin="205.048">ドナルド・キーン氏の研究、</span>
-<span data-dur="3.609" data-begin="208.066">そして図書館のＰＲなど</span>
-<span data-dur="2.409" data-begin="211.675">幅広い活動を通じて</span>
-<span data-dur="2.974" data-begin="214.084">北区の図書館運営に協働をいただいております。</span>
+<span data-dur="5.694" data-begin="177.441">「区民と行政が一緒に創っていくシステムをもった図書館を目指して」</span>
+<span data-dur="1.463" data-begin="183.135">を合言葉に、</span>
+<span data-dur="5.712" data-begin="184.598">協働型図書館のパートナーとして設立された区民の会におきましては、</span>
+<span data-dur="3.362" data-begin="190.310">これまで図書館の様々な事業の</span>
+<span data-dur="5.163" data-begin="193.672">企画、調整、実施の取組みを進めてきました。</span>
+<span data-dur="3.875" data-begin="198.835">現在５つの部会活動を中心に</span>
+<span data-dur="2.338" data-begin="202.710">読書推進活動や</span>
+<span data-dur="3.018" data-begin="205.048">誰でも利用しやすい図書館づくり、</span>
+<span data-dur="3.609" data-begin="208.066">貴重な地域資料の調査、発信、</span>
+<span data-dur="2.409" data-begin="211.675">ドナルド・キーン氏の研究、</span>
+<span data-dur="2.974" data-begin="214.084">そして図書館のＰＲなど</span>
+<span data-dur="2.408" data-begin="217.058">幅広い活動を通じて</span>
+<span data-dur="4.98" data-begin="219.466">北区の図書館運営に協働をいただいております。</span>
 
-<span data-dur="2.408" data-begin="217.058">これからも</span>
-<span data-dur="4.98" data-begin="219.466">区民にとって</span>
-<span data-dur="1.204" data-begin="224.446">身近で頼りになる図書館を目指してまいりますので、</span>
-<span data-dur="1.596" data-begin="225.650">より一層のご理解・ご協力をお願いいたしますとともに、</span>
-<span data-dur="4.362" data-begin="227.246">渡辺会長をはじめ会員の皆さまの</span>
-<span data-dur="5.354" data-begin="231.608">ますますのご健勝をご祈念いたします。</span>
+<span data-dur="1.204" data-begin="224.446">これからも</span>
+<span data-dur="1.596" data-begin="225.650">区民にとって</span>
+<span data-dur="4.362" data-begin="227.246">身近で頼りになる図書館を目指してまいりますので、</span>
+<span data-dur="5.354" data-begin="231.608">より一層のご理解・ご協力をお願いいたしますとともに、</span>
+<span data-dur="3.87" data-begin="236.962">渡辺会長をはじめ会員の皆さまの</span>
+<span data-dur="4.839" data-begin="240.832">ますますのご健勝をご祈念いたします。</span>
 
-<!--span data-dur="3.87" data-begin="236.962">以上で、</span>
-<span data-dur="4.839" data-begin="240.832">ごあいさつの読み上げを終わります消す。</span>
-<span data-dur="4.022" data-begin="246.798"></span>
-<span data-dur="1.15" data-begin="250.820"></span-->
+<!--span data-dur="1.127" data-begin="245.671">以上で、</span>
+<span data-dur="4.022" data-begin="246.798">ごあいさつの読み上げを終わります消す。</span-->
