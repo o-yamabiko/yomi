@@ -13,12 +13,12 @@ imagefromurl:
 navigation: true
 ---
    
-## <span data-dur="1.902" data-begin="0.000">ごあいさつ</span>
+<!--span data-dur="1.902" data-begin="0.000">ごあいさつ</span>
 
-<!--span data-dur="1.641" data-begin="1.902">読み上げ時間</span>
+<span data-dur="1.641" data-begin="1.902">読み上げ時間</span>
 <span data-dur="3" data-begin="3.543">約4分15秒消す</span-->
 
-### <span data-dur="2.253" data-begin="6.543">ごあいさつ</span>
+## <span data-dur="2.253" data-begin="6.543">ごあいさつ</span>
 
 <span data-dur="3.312" data-begin="8.796">北区図書館活動区民の会</span>
 <span data-dur="1.203" data-begin="12.108">会長</span>
@@ -82,7 +82,7 @@ navigation: true
 <span data-dur="3.169" data-begin="148.043">今後ともご理解ご協力の程</span>
 <span data-dur="3.816" data-begin="151.212">よろしくお願いいたします。</span>
 
-### <span data-dur="5.974" data-begin="155.028">北区図書館活動区民の会１０周年を迎えて</span>
+## <span data-dur="5.974" data-begin="155.028">北区図書館活動区民の会１０周年を迎えて</span>
 
 <span data-dur="2.864" data-begin="161.002">北区立中央図書館長</span>
 <span data-dur="2.313" data-begin="163.866">堀田哲二</span>
