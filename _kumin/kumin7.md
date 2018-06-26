@@ -38,7 +38,7 @@ navigation: true
 
 <span data-dur="3.203" data-begin="50.863">5つの部があります。</span>
 
-<span data-dur="2.336" data-begin="54.066">中央図書館3階の</span>  
+<span data-dur="2.336" data-begin="54.066">中央図書館3階の</span>
 <span data-dur="1.383" data-begin="56.402">「区民の会</span>
 <span data-dur="1.624" data-begin="57.785">活動コーナー」</span>
 <span data-dur="3.44" data-begin="59.409">にお立ち寄りください。</span>
