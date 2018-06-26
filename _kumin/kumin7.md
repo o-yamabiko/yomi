@@ -22,27 +22,28 @@ navigation: true
 
 <span data-dur="3.71" data-begin="15.429">平成30年6月29日</span>
 <span data-dur="1.272" data-begin="19.139">（金）</span>
-<span data-dur="2.816" data-begin="20.411">～8月31日</span>
-<span data-dur="1.772" data-begin="23.227">（金）</span>
+<span data-dur="0.809" data-begin="20.411">～</span>
+<span data-dur="2.362" data-begin="21.220">8月31日</span>
+<span data-dur="1.771" data-begin="23.582">（金）</span>
 
-<span data-dur="3.389" data-begin="24.999">※各パネルに付いているQRコードを</span>
-<span data-dur="2.496" data-begin="28.388">スマートフォンなどで読み取ると、</span>
-<span data-dur="4.95" data-begin="30.884">読み上げ音声のページを開くことができます。</span>  
-<span data-dur="4.764" data-begin="35.834">音が出ますのでご注意ください。</span>
+<span data-dur="3.389" data-begin="25.353">※各パネルに付いているQRコードを</span>
+<span data-dur="2.496" data-begin="28.742">スマートフォンなどで読み取ると、</span>
+<span data-dur="4.95" data-begin="31.238">読み上げ音声のページを開くことができます。</span>  
+<span data-dur="4.765" data-begin="36.188">音が出ますのでご注意ください。</span>
 
-### <span data-dur="3.775" data-begin="40.598">図書館でボランティア活動を！</span>
+### <span data-dur="3.774" data-begin="40.953">図書館でボランティア活動を！</span>
 
-<span data-dur="1.296" data-begin="44.373">皆さんも、</span>
-<span data-dur="3.99" data-begin="45.669">図書館と協働で始めませんか？</span>
+<span data-dur="1.296" data-begin="44.727">皆さんも、</span>
+<span data-dur="3.99" data-begin="46.023">図書館と協働で始めませんか？</span>
 
-<span data-dur="3.203" data-begin="49.659">5つの部があります。</span>
+<span data-dur="3.203" data-begin="50.013">5つの部があります。</span>
 
-<span data-dur="2.336" data-begin="52.862">中央図書館3階の</span>  
-<span data-dur="1.383" data-begin="55.198">「区民の会</span>
-<span data-dur="1.623" data-begin="56.581">活動コーナー」</span>
-<span data-dur="3.441" data-begin="58.204">にお立ち寄りください。</span>
+<span data-dur="2.336" data-begin="53.216">中央図書館3階の</span>
+<span data-dur="1.383" data-begin="55.552">「区民の会</span>
+<span data-dur="1.624" data-begin="56.935">活動コーナー」</span>
+<span data-dur="3.44" data-begin="58.559">にお立ち寄りください。</span>
 
-<!--span data-dur="1.127" data-begin="61.645">以上で、</span>
-<span data-dur="3.312" data-begin="62.772">北区図書館活動区民の会</span>
-<span data-dur="1.827" data-begin="66.084">10周年記念</span>
-<span data-dur="3.389" data-begin="67.911">の読み上げを終わります消す。</span-->
+<!--span data-dur="1.127" data-begin="61.999">以上で、</span>
+<span data-dur="3.312" data-begin="63.126">北区図書館活動区民の会</span>
+<span data-dur="1.827" data-begin="66.438">10周年記念</span>
+<span data-dur="3.389" data-begin="68.265">の読み上げを終わります消す。</span-->
