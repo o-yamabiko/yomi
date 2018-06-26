@@ -128,7 +128,7 @@ navigation: true
 <span data-dur="2.185" data-begin="184.707">〜平成25年まで）</span>
 <span data-dur="2.289" data-begin="186.892">（子ども部）</span>
 
-<span data-dur="3.862" data-begin="189.181">「子どもの本のつどい in Kitakuの開催」</span>
+<span data-dur="3.862" data-begin="189.181">「子どもの本のつどい in Kitaku の開催」</span>
 <span data-dur="1.606" data-begin="193.043">受託開始</span>
 <span data-dur="4.098" data-begin="194.649">会場：東十条図書館・区民センター</span>
 <span data-dur="2.289" data-begin="198.747">（子ども部）</span>
