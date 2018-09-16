@@ -56,7 +56,7 @@
         {% if page.oto %}
 	<div class="controller">
             <!--p class="loading">
-                <em><img src="media/loader.gif" alt="Initializing audio"> Loading audio…</em>
+                <em><img src="../media/loader.gif" alt="Initializing audio"> Loading audio…</em>
             </p-->
 
             <p class="passage-audio" hidden>
@@ -84,9 +84,9 @@
             </div>
 
 	    <p class="playback-rate" hidden>
-	    <button id="playback-playpause" type="button" class="parent"><img src="media/playpause.png" srcset="media/playpause.svg" alt="" class="gyo" /><span class="sreaderonly">再生 停止（数字の0キーか、アルファベットのpキー）</span><span class="popup">再生 停止（数字の0キーか、アルファベットのpキー）</span></button>
-	    <button id="playback-back" type="button" class="parent"><img src="media/rewind.png" srcset="media/rewind.svg" alt="" class="gyo" /><span class="sreaderonly">5秒戻る（数字の1キーか、左矢印キー）</span><span class="popup">5秒戻る（数字の1キーか、左矢印キー）</span></button>
-	    <button id="playback-forward" type="button" class="parent"><img src="media/forward.png" srcset="media/forward.svg" alt="" class="gyo" /><span class="sreaderonly">5秒進む（数字の4キーか、右矢印キー）</span><span class="popup">5秒進む（数字の4キーか、右矢印キー）</span></button>
+	    <button id="playback-playpause" type="button" class="parent"><img src="../media/playpause.png" srcset="../media/playpause.svg" alt="" class="gyo" /><span class="sreaderonly">再生 停止（数字の0キーか、アルファベットのpキー）</span><span class="popup">再生 停止（数字の0キーか、アルファベットのpキー）</span></button>
+	    <button id="playback-back" type="button" class="parent"><img src="../media/rewind.png" srcset="../media/rewind.svg" alt="" class="gyo" /><span class="sreaderonly">5秒戻る（数字の1キーか、左矢印キー）</span><span class="popup">5秒戻る（数字の1キーか、左矢印キー）</span></button>
+	    <button id="playback-forward" type="button" class="parent"><img src="../media/forward.png" srcset="../media/forward.svg" alt="" class="gyo" /><span class="sreaderonly">5秒進む（数字の4キーか、右矢印キー）</span><span class="popup">5秒進む（数字の4キーか、右矢印キー）</span></button>
 	    <span class="sreaderonly">読み上げ時間</span><span id="audiotime"></span>
             <br />
 <button id="playback-slow" type="button" class="parent">ゆっくり<span class="sreaderonly">（数字の2キーか、下矢印キー）</span><span class="popup">数字の2キーか、下矢印キー</span></button>
@@ -134,7 +134,7 @@
         {% if page.docid contains 'tusin' %}
       <div style="text-align:right;"><a href="{{ site.url }}/bn.html">やまびこ通信 バックナンバー</a></div>
         {% endif %}
-       <div class="site-footer-owner"><a href="{{ site.url }}">音訳グループ やまびこ<img src="media/Speaker_Icon_gray.png" srcset="media/Speaker_Icon_gray.svg" alt="音声付き" class="gyo" /></a></div>
+       <div class="site-footer-owner"><a href="{{ site.url }}">音訳グループ やまびこ<img src="../media/Speaker_Icon_gray.png" srcset="../media/Speaker_Icon_gray.svg" alt="音声付き" class="gyo" /></a></div>
       <div itemscope>
     	<time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">ページ更新日： {{ page.date | date: "%Y年%m月%d日" }}</time>
       </div>
