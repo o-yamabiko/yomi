@@ -2,9 +2,8 @@
 <html lang="{{ site.lang | default: "ja" }}">
   <head>
     <meta charset='utf-8'>
-    <meta name="robots" content="noindex">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>{% if page.oto %}読み上げ音声：{% endif %}{{ page.title }}</title>
+    <title>{% if page.oto %}音が出ます：{% endif %}{{ page.title }} | {{ site.title }}</title>
 
             {% seo title=false %}
 	    
@@ -17,7 +16,7 @@
          padding-top: 12em;
       }
       #logo {
-         background-image: url('../media/index/webtop.png');
+         background-image: url('../media/index/webtop2.png');
       }
         {% endif %}
         {% if page.iro %}
@@ -54,6 +53,67 @@
   </head>
   <body{% if page.oto %} onload="showtext()"{% endif %}>
         {% if page.oto %}
+	<div class="controller">
+            <!--p class="loading">
+                <em><img src="media/loader.gif" alt="Initializing audio"> Loading audio…</em>
+            </p-->
+
+            <p class="passage-audio" hidden>
+                <audio id="passage-audio" class="passage" autoplay controls>
+                    <source src="media/{{ page.oto }}.mp3" type="audio/mp3">
+                    <source src="media/{{ page.oto }}.ogg" type="audio/ogg">
+                    <!--source src="media/{{ page.oto }}.wav" type="audio/wav"-->
+<!--object or embed for old browsers-->
+    <object class="error" type="audio/mpeg">
+        <param name="autostart" value="false">
+        <param name="src" value="media/{{ page.oto }}.mp3">
+        <param name="autoplay" value="false">
+        <param name="controller" value="false">
+        <embed src="media/{{ page.oto }}.mp3" controller="false" autoplay="false" autostart="true" type="audio/mpeg" />
+    </object>
+                </audio>
+            </p>
+            <!--p class="passage-audio-unavailable" hidden>
+                <em class="error"><strong>残念！</strong> お使いのブラウザはMP3やOggの形式の音声に対応していないため、読み上げ音声を再生できません。</em>
+            </p-->
+
+	    <div id="chuu">
+	        <div class="sreaderonly">このページの構成は スクリーンリーダーと かち合う恐れがあります。
+		</div>
+            </div>
+
+	    <p class="playback-rate" hidden>
+	    <button id="playback-playpause" type="button" class="parent"><img src="media/playpause.png" srcset="media/playpause.svg" alt="" class="gyo" /><span class="sreaderonly">再生 停止（数字の0キーか、アルファベットのpキー）</span><span class="popup">再生 停止（数字の0キーか、アルファベットのpキー）</span></button>
+	    <button id="playback-back" type="button" class="parent"><img src="media/rewind.png" srcset="media/rewind.svg" alt="" class="gyo" /><span class="sreaderonly">5秒戻る（数字の1キーか、左矢印キー）</span><span class="popup">5秒戻る（数字の1キーか、左矢印キー）</span></button>
+	    <button id="playback-forward" type="button" class="parent"><img src="media/forward.png" srcset="media/forward.svg" alt="" class="gyo" /><span class="sreaderonly">5秒進む（数字の4キーか、右矢印キー）</span><span class="popup">5秒進む（数字の4キーか、右矢印キー）</span></button>
+	    <span class="sreaderonly">読み上げ時間</span><span id="audiotime"></span>
+            <br />
+<button id="playback-slow" type="button" class="parent">ゆっくり<span class="sreaderonly">（数字の2キーか、下矢印キー）</span><span class="popup">数字の2キーか、下矢印キー</span></button>
+	    <button id="playback-rate" type="button" class="parent"><span id="skew">はやくち<span class="sreaderonly">（数字の3キーか、上矢印キー）</span><span class="popup">数字の3キーか、上矢印キー</span></span></button>
+	    <span class="sreaderonly">読み上げ速さ</span><span id="hayasa">1&times;</span>
+            </p>
+	    <!--p class="playback-rate-unavailable" hidden>
+                <em>(お使いのブラウザは <code>HTMLMediaElement.playbackRate</code> に対応していないようです。そのため、読み上げの速さを変えることができません。)</em>
+            </p-->
+
+	    <p id="showchar">
+              <label for="hyoji" class="bluebox">文字の表示
+                <input type="checkbox" id="hyoji" onclick="showtext()">
+                <span class="checkmark"></span>
+              </label>
+              <span id="view" class="autofocus-current-word">
+                <label for="autofocus-current-word" class="bluebox">音声と画面の連動
+		  <input type="checkbox" id="autofocus-current-word" checked="checked">
+                  <span class="checkmark"></span>
+                </label>
+              </span>
+	    </p>
+
+            <noscript>
+                <p class="error"><em><strong>お知らせ:</strong> このページの読み上げ機能 HTML5 read-along を利用するには、 JavaScript を有効にしておく必要があります。</em></p>
+            </noscript>
+	    <div id="forprint"><a href="/p{{ page.url }}">音声なし（印刷用）ページ</a></div>
+        </div>
   <div id="logo"></div>
         {% endif %}
    <div id="passage-text" class="passage">
@@ -70,17 +130,23 @@
       {{ content }}
 
       <footer class="site-footer">
-       <div class="site-footer-owner">読み上げ版製作：<a href="{{ site.url }}">音訳グループ やまびこ<img src="media/Speaker_Icon_gray.png" srcset="media/Speaker_Icon_gray.svg" alt="音声付き" class="gyo" /></a></div>
+        {% if page.docid contains 'tusin' %}
+      <div style="text-align:right;"><a href="{{ site.url }}/bn.html">やまびこ通信 バックナンバー</a></div>
+        {% endif %}
+       <div class="site-footer-owner"><a href="{{ site.url }}">音訳グループ やまびこ<img src="media/Speaker_Icon_gray.png" srcset="media/Speaker_Icon_gray.svg" alt="音声付き" class="gyo" /></a></div>
       <div itemscope>
     	<time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">ページ更新日： {{ page.date | date: "%Y年%m月%d日" }}</time>
       </div>
+       {% if site.github.is_project_page %}
+          <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
+       {% endif %}
          <span class="site-footer-credits">このページは<a href="https://pages.github.com">GitHub Pages</a>によって生成されました。</span>
        {% if page.imagefrom %}
 	  <div class="site-footer-credits">背景画像： <a href="{{ page.imagefromurl }}">{{ page.imagefrom }}</a></div>
         {% endif %}
         {% if page.oto %}
           <div class="site-footer-credits">このページの読み上げ機能に使っているJavaScriptについて：<br />
-	    The read-along feature is powered by <a href="https://github.com/westonruter/html5-audio-read-along">the read-along code</a> created by <a href="http://westonruter.github.com/">Weston Ruter</a>, licensed <a href="http://www.opensource.org/licenses/MIT" rel="license">MIT</a>/<a href="http://www.gnu.org/licenses/gpl.html" rel="license">GPL</a>. Partly modified from the original.</div>
+	    <span lang="en">The read-along feature is powered by <a href="https://github.com/westonruter/html5-audio-read-along">the read-along code</a> created by <a href="http://westonruter.github.com/">Weston Ruter</a>, licensed <a href="http://www.opensource.org/licenses/MIT" rel="license">MIT</a>/<a href="http://www.gnu.org/licenses/gpl.html" rel="license">GPL</a>. Partly modified from the original.</span></div>
         {% endif %}
       </footer>
     </section>
@@ -88,62 +154,14 @@
        {% if page.navigation %}
 <div class="nav">
          {% if page.previous %}
-<span class="pglinkl"><a href="/yomi{{ page.previous.url }}">前頁</a></span>
+<span class="pglinkl"><a href="{{ page.previous.url }}">前号</a></span>
          {% endif %}
          {% if page.next %}
-<span class="pglinkr"><a href="/yomi{{ page.next.url }}">次頁</a></span>
+<span class="pglinkr"><a href="{{ page.next.url }}">次号</a></span>
          {% endif %}
 </div> 
        {% endif %}
         {% if page.oto %}
-	<div class="controller">
-
-	    <p style="margin-left: 1rem; margin-top: 3rem;">
-              <label for="hyoji" class="tgl tgl-gray">  
-                <input type="checkbox" id="hyoji" onclick="showtext()">
-                <span data-on="文字表示中" data-off="文字を表示"></span>
-              </label>
-              <span id="view" style="display: none;" class="autofocus-current-word">
-                <label for="autofocus-current-word" class="tgl tgl-gray">
-		  <input type="checkbox" id="autofocus-current-word" checked>
-                  <span data-on="音声と画面の連動中" data-off="音声・画面を連動に"></span>
-                </label>
-              </span>
-	    </p>
-            <p class="playback-rate" hidden title="Note that increaseing the reading rate will decrease accuracy of word highlights">
-	        <button id="playback-slow" type="button">ゆっくり</button> <span id="hayasa">1&times;</span> <button id="playback-rate" type="button"><span id="skew">すばやく</span></button>
-            </p>
-	    <p class="playback-rate-unavailable" hidden>
-                <em>(お使いのブラウザは <code>HTMLMediaElement.playbackRate</code> に対応していないようです。そのため、読み上げの速さを変えることができません。)</em>
-            </p>
-
-            <p class="loading">
-                <em><img src="media/loader.gif" alt="Initializing audio"> Loading audio…</em>
-            </p>
-
-            <p class="passage-audio" hidden>
-                <audio id="passage-audio" class="passage" controls autoplay>
-                    <source src="media/{{ page.oto }}.mp3" type="audio/mp3">
-                    <source src="media/{{ page.oto }}.ogg" type="audio/ogg">
-                    <!--source src="media/{{ page.oto }}.wav" type="audio/wav"-->
-<!--object or embed for old browsers-->
-    <object class="error" type="audio/mpeg">
-        <param name="autostart" value="true">
-        <param name="src" value="media/{{ page.oto }}.mp3">
-        <param name="autoplay" value="true">
-        <param name="controller" value="true">
-        <embed src="media/{{ page.oto }}.mp3" controller="true" autoplay="true" autostart="true" type="audio/mpeg" />
-    </object>
-                </audio>
-            </p>
-            <p class="passage-audio-unavailable" hidden>
-                <em class="error"><strong>残念！</strong> お使いのブラウザはMP3やOggの形式の音声に対応していないため、読み上げ音声を再生できません。</em>
-            </p>
-
-            <noscript>
-                <p class="error"><em><strong>お知らせ:</strong> このページの読み上げ機能 HTML5 read-along を利用するには、 JavaScript を有効にしておく必要があります。</em></p>
-            </noscript>
-        </div>
         {% endif %}
 
     {% if site.google_analytics %}
